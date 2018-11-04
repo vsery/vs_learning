@@ -1,15 +1,13 @@
-> For our students, we are able to get the latest information and learning materials in the Internet.
-So learning never stops,I strive to all kinds of comprehensive learning materials, and to deliver such in a manner which respects the unique learning needs of each individual student.
+> 我只是互联网的一个搬运工。 我只是记录下自己所见所想，与正在经历的技术一起改变，并在此过过程一起交流心得。 虽然其中很大部分是 Fork 过来以后改的，感谢前辈们的贡献。
+> [欢迎大家一起来讨论, 或留下您的建议。](https://gitee.com/vsery/learning/issues/new)
 
-> 对于我们的学生来说，我们可以在网上获得最新的信息和学习材料。
-所以学习从来没有停止过，我努力学习各种综合性的学习材料，并以一种尊重每个学生独特的学习需求的方式来传递。
-
-> 我只是互联网的一个搬运工。我只是记录下自己所见所想，与正在经历的技术一起改变，并在此过过程一起交流心得。 虽然其中很大部分是 Fork 过来以后改的，感谢前辈们的贡献。[欢迎大家一起来讨论, 或留下您的建议。](https://gitee.com/vsery/learning/issues/new)
-
-> :smiley_cat: _These share data are from my usual work and learning，hoping to help you，If you like you can star and watch._
+> :heart_eyes_cat: _These share data are from my usual work and learning，hoping to help you. If you like you can star :star: and watch._ :heartpulse:
 
 ### 目录
 * [流行技术博客站点收录](/blog/README.md)
+
+***
+
 涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索、人工智能、脚本等等（不一定是著名站点或者知名博客，重在有可借鉴之处），排名纯按添加时间顺序，持续更新中。。。
 
 * [Express + MongoDB 搭建多人博客 -- by nswbmw](/blogs/README.md)
@@ -42,6 +40,8 @@ Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ Thinkphp的前后端分离框�
 3. [Mobile手势解决方案](https://github.com/AlloyTeam/AlloyFinger)
 4. [Mobile裁剪解决方案](https://github.com/AlloyTeam/AlloyFinger/tree/master/alloy_crop)
 
+***
+
 ### 内容贡献者,感谢他们. (排名不分先后)
 [fouber](https://github.com/fouber) |
 [JacksonTian](https://github.com/JacksonTian) |
@@ -55,4 +55,10 @@ Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ Thinkphp的前后端分离框�
 [paddingme](https://github.com/paddingme) |
 [nimojs](https://github.com/nimojs) |
 
+***
 
+> For our students, we are able to get the latest information and learning materials in the Internet.
+So learning never stops,I strive to all kinds of comprehensive learning materials, and to deliver such in a manner which respects the unique learning needs of each individual student.
+
+> 对于我们的学生来说，我们可以在网上获得最新的信息和学习材料。
+所以学习从来没有停止过，我努力学习各种综合性的学习材料，并以一种尊重每个学生独特的学习需求的方式来传递。
