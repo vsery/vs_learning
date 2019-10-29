@@ -1,15 +1,15 @@
 # 互联网时代前端"手工艺人"的[百宝箱](http://baike.baidu.com/view/123101.htm)
 武林高手都有几件称手的兵器, 更别提手中无剑, 心中也无剑的世外高人了.
 
-软件开发者做为新时代的"手工艺人", 当然也需要自己称手的[工具](http://liqi.io/)来改变这个世界.
+软件开发者做为新时代的 "[手艺人](https://baike.baidu.com/item/手艺人)" , 当然也需要自己称手的[工具](http://liqi.io/)来改变这个世界.
 
-我做为一名专业的前端[工程师](http://baike.baidu.com/subview/25007/13224992.htm "Engineer: 那些在工程专业领域的人, 他们使用科学知识来驾驭技术以解决实际问题, 并以此为职业. 具有从事工程系统操作、设计、管理、评估等能力的人")([F2E](https://www.nczonline.net/blog/2007/08/15/what-makes-a-good-front-end-engineer/ "What makes a good front end engineer?")), 特将自己多年的经验整理出来, 一方面帮助自己理清思路, 想想自己是怎样一步步走过来的, 另一方面当然也是想和大家一起分享下我的收获, 希望每个人都能够从中获益, 特别是那些想入门前端开发的朋友.
+我做为一名专业的前端 [工程师](http://baike.baidu.com/subview/25007/13224992.htm "Engineer: 那些在工程专业领域的人, 他们使用科学知识来驾驭技术以解决实际问题, 并以此为职业. 具有从事工程系统操作、设计、管理、评估等能力的人") ([F2E](https://www.nczonline.net/blog/2007/08/15/what-makes-a-good-front-end-engineer/ "What makes a good front end engineer?")) , 特将自己多年的经验整理出来, 一方面帮助自己理清思路, 想想自己是怎样一步步走过来的, 另一方面当然也是想和大家一起分享下我的收获, 希望每个人都能够从中获益, 特别是那些想入门前端开发的朋友.
 
 我当年无数次梦想着有那么一份总结文档摆在我面前, 让我免于走弯路, 话说站在巨人(当然我不是什么巨人, 身边也没有这样的巨人)的肩膀上, 我们才能够如此轻松愉快地学习到各种精华. 别人可能是一辈子的研究成果, 我们可能一天就看完了, 正是知识的传承在推动着时代的进步, 改变世界.
 
 由衷的感谢那些在前端道路上一路指引着我们的前辈们, 非常感谢. 我从你们那里学到了太多东西.
 
-这份总结我会保持更新, 如果有任何问题, 欢迎大家提出各种[issues](https://github.com/f2e-journey/software/issues/new), 当然也鼓励大家[fork](https://github.com/f2e-journey/software#fork-destination-box)出自己的版本.
+这份总结我会保持更新, 如果有任何问题, 欢迎大家提出各种[issues](https://gitee.com/VsCny/f2e/issues/new), 当然也鼓励大家[fork](https://github.com/f2e-journey/software#fork-destination-box)出自己的版本.
 
 ## 百宝箱
 * [前端工程师常用软件](https://github.com/f2e-journey/software/blob/master/software.md)([备选项](https://github.com/f2e-journey/software/blob/master/software-alternative.md))

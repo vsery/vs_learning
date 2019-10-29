@@ -4,9 +4,11 @@
 
 > 我只是记录下自己所见所想，与正在经历的技术一起改变，并在此过过程一起交流心得。虽然其中很大部分是fork过来以后改的，感谢前辈们的贡献。
 
-[欢迎大家一起来讨论](https://github.com/vsery/Blog/issues/1)
+[欢迎大家一起来讨论, 或留下您的建议。](https://gitee.com/VsCny/f2e/issues/new)
 
 目录 [我只是互联网的一个搬运工]
+
+* [Vue相关开源项目库汇总](/vue.md)
 
 * [全栈工程师 -- 材料](/full-stack/README.md)
 
@@ -42,7 +44,8 @@ Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ Thinkphp的前后端分离框�
 
 * [流行技术博客站点收录](/blog/README.md)
 
-* 函数式编程术语 -- [cn](https://github.com/shfshanyue/fp-jargon-zh) | [en](https://github.com/hemanth/functional-programming-jargon)
+* 函数式编程术语 -- [cn](https://github.com/shfshanyue/fp-jargon-zh) |
+[en](https://github.com/hemanth/functional-programming-jargon)
 
 
 
@@ -52,9 +55,17 @@ Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ Thinkphp的前后端分离框�
 3. [Mobile手势解决方案](https://github.com/AlloyTeam/AlloyFinger)
 4. [Mobile裁剪解决方案](https://github.com/AlloyTeam/AlloyFinger/tree/master/alloy_crop)
 
-
-
 # 内容贡献者,感谢他们. (排名不分先后)
-[fouber](https://github.com/fouber) | [JacksonTian](https://github.com/JacksonTian) | [nswbmw](https://github.com/nswbmw) | [Wscats](https://github.com/Wscats) | [f2e-journey](https://github.com/f2e-journey) | [alsotang](https://github.com/alsotang) | [damonare](https://github.com/damonare) | [bailicangdu](https://github.com/bailicangdu) | [honraytech](https://github.com/honraytech) | [paddingme](https://github.com/paddingme) | [nimojs](https://github.com/nimojs)
+[fouber](https://github.com/fouber) |
+[JacksonTian](https://github.com/JacksonTian) |
+[nswbmw](https://github.com/nswbmw) |
+[Wscats](https://github.com/Wscats) |
+[f2e-journey](https://github.com/f2e-journey) |
+[alsotang](https://github.com/alsotang) |
+[damonare](https://github.com/damonare) |
+[bailicangdu](https://github.com/bailicangdu) |
+[honraytech](https://github.com/honraytech) |
+[paddingme](https://github.com/paddingme) |
+[nimojs](https://github.com/nimojs) |
 
 
