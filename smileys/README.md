@@ -1,11 +1,15 @@
-本页列出的表情符号在Campfire、GitHub、Basecamp、Redbooth、Trac、Flowdock、Sprint上都有支持。ly Kandan,文本框。io, Kippt, Redmine, JabbR, Trello, Hall, Qiita, Zendesk, Ruby China, Grove, Idobata, NodeBB forum, Slack, Streamup，有组织的头脑，Hackpad, Cryptbin, Kato，据说，开朗鬼，IRCCloud, Dashcube, MyVideoGameList, Subrosa, Sococo, Quip, Bang, Bonusly, Discourse, Ello, Twemoji Awesome，被选中，Flow, ReadMe。io、esa、DBook、Groups。io, TeamworkChat，该死的Bugs, Let’schat, Buildkite, ChatGrape, Dokuwiki, Usersnap，， Status Hero, Morfy, Bitbucket, Gitter, Yellow, YouTube, Habitica和Mattermost
+Emoji emoticons listed on this page are supported on Campfire, GitHub, Basecamp, Redbooth, Trac, Flowdock, Sprint.ly, Kandan, Textbox.io, Kippt, Redmine, JabbR, Trello, Hall, Qiita, Zendesk, Ruby China, Grove, Idobata, NodeBB Forums, Slack, Streamup, OrganisedMinds, Hackpad, Cryptbin, Kato, Reportedly, Cheerful Ghost, IRCCloud, Dashcube, MyVideoGameList, Subrosa, Sococo, Quip, And Bang, Bonusly, Discourse, Ello, Twemoji Awesome, Got Chosen, Flow, ReadMe.io, esa, DBook, Groups.io, TeamworkChat, Damn Bugs, Let's Chat, Buildkite, ChatGrape, Dokuwiki, Usersnap, Discord, Status Hero, Morfy, Bitbucket, Gitter, Yellow, YouTube, Habitica and Mattermost.
+> 此页上列出的emoji 表情图释支持篝火、 GitHub， Basecamp、 Redbooth、 Trac、 Flowdock、 Sprint.ly、 Kandan、 Textbox.io、 Kippt、 Redmine、 JabbR、特雷略、大厅、 Qiita、创业、红宝石中国、格罗夫、 Idobata、 NodeBB 论坛、可宽延时间、 Streamup、 OrganisedMinds、 Hackpad、 Cryptbin、加藤、据报、开朗鬼、 IRCCloud、 Dashcube、 MyVideoGameList、 Subrosa、 Sococo、妙语、和邦、 Bonusly，话语，再见， Twemoji 令人敬畏，有选择、流、 ReadMe.io，欧空局， DBook、 Groups.io、 TeamworkChat、可恶的虫子、聊吧、 Buildkite、 ChatGrape、 Dokuwiki、 Usersnap、不和谐、地位英雄、 Morfy、付费、 Gitter、黄色、 YouTube、 Habitica和Mattermost
 
-然而，有些表情符号代码并不容易记住，所以这里有一个小窍门。
-✈现代浏览器或Flash启用了吗?点击表情符号代码，它将被复制到你的剪贴板上。
+However some of the emoji codes are not super easy to remember, so here is a little cheat sheet.
+> 然而，有些表情符号代码并不容易记住，所以这里有一个小窍门。
+
+✈ Got a modern browser or Flash enabled? Click the emoji code and it will be copied to your clipboard.
+>✈现代浏览器或Flash启用了吗?点击表情符号代码，它将被复制到你的剪贴板上。
 
 ## People
-| 标签 | 代码 | 标签 | 代码 |
-| :--: | :--: | :--: | :--: |
+| 标签 | 代码 |
+| :--: | :--: |
 | :bowtie: | ``` :bowtie: ``` |
 | :smile: | ``` :smile: ``` |
 | :simple_smile: | ``` :simple_smile: ``` |
@@ -202,8 +206,8 @@
 | :trollface: | ``` :trollface: ``` |
 
 ## Nature
-| 标签 | 代码 | 标签 | 代码 |
-| :--: | :--: | :--: | :--: |
+| 标签 | 代码 |
+| :--: | :--: |
 | :sunny: | ``` :sunny: ``` |
 | :umbrella: | ``` :umbrella: ``` |
 | :cloud: | ``` :cloud: ``` |
@@ -321,8 +325,8 @@
 | :squirrel: | ``` :squirrel: ``` |
 
 ## Objects
-| 标签 | 代码 | 标签 | 代码 |
-| :--: | :--: | :--: | :--: |
+| 标签 | 代码 |
+| :--: | :--: |
 | :bamboo: | ``` :bamboo: ``` |
 | :gift_heart: | ``` :gift_heart: ``` |
 | :dolls: | ``` :dolls: ``` |
@@ -585,8 +589,8 @@
 | :corn: | ``` :corn: ``` |
 
 ## Places
-| 标签 | 代码 | 标签 | 代码 |
-| :--: | :--: | :--: | :--: |
+| 标签 | 代码 |
+| :--: | :--: |
 | :house: | ``` :house: ``` |
 | :house_with_garden: | ``` :house_with_garden: ``` |
 | :school: | ``` :school: ``` |
@@ -695,8 +699,8 @@
 | :de: | ``` :de: ``` |
 
 ## Symbols
-| 标签 | 代码 | 标签 | 代码 |
-| :--: | :--: | :--: | :--: |
+| 标签 | 代码 |
+| :--: | :--: |
 | :one: | ``` :one: ``` |
 | :two: | ``` :two: ``` |
 | :three: | ``` :three: ``` |
