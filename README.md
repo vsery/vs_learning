@@ -1,14 +1,18 @@
 # Blog
 
-> :smiley_cat:_These share data are from my usual work and learning，hoping to help you，If you like you can star_
+> :smiley_cat: _These share data are from my usual work and learning，hoping to help you，If you like you can star_
+> 我只是记录下自己所见所想，与正在经历的技术一起改变，并在此过过程一起交流心得。虽然其中很大部分是fork过来以后改的，感谢前辈们的贡献。[欢迎大家一起来讨论, 或留下您的建议。](https://gitee.com/VsCny/f2e/issues/new)
 
-> 我只是记录下自己所见所想，与正在经历的技术一起改变，并在此过过程一起交流心得。虽然其中很大部分是fork过来以后改的，感谢前辈们的贡献。
+# 目录 [我只是互联网的一个搬运工]
 
-[欢迎大家一起来讨论, 或留下您的建议。](https://gitee.com/VsCny/f2e/issues/new)
+* [流行技术博客站点收录](/blog/README.md)
+涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索、人工智能、脚本等等（不一定是著名站点或者知名博客，重在有可借鉴之处），排名纯按添加时间顺序，持续更新中。。。
 
-目录 [我只是互联网的一个搬运工]
+* [Express + MongoDB 搭建多人博客 -- by nswbmw](/blogs/README.md)
 
-* [Vue相关开源项目库汇总](/vue-files.md)
+* [使用node.js + express开发简易后台 -- by peng1992](/express/README.md)
+
+* [Vue相关开源项目库汇总](/vue/README.md)
 
 * [全栈工程师 -- 材料](/full-stack/README.md)
 
@@ -16,9 +20,7 @@
 
 * [Node.js 中文资料导航](/node-link/README.md)
 
-* [使用node.js + express开发简易后台 -- by peng1992](/express/README.md)
 
-* [Express + MongoDB 搭建多人博客 -- by nswbmw](/blogs/README.md)
 
 * [Vue——饿了么 -- by bailicangdu](https://github.com/bailicangdu/vue2-elm/)
 
@@ -42,12 +44,9 @@ Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ Thinkphp的前后端分离框�
 
 * [前端面试题 -- by paddingme](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 
-* [流行技术博客站点收录](/blog/README.md)
 
 * 函数式编程术语 -- [cn](https://github.com/shfshanyue/fp-jargon-zh) |
 [en](https://github.com/hemanth/functional-programming-jargon)
-
-
 
 # 面向亿万用户级的移动端Web解决方案：
 1. [特效制作解决方案](http://alloyteam.github.io/AlloyTouch/transformjs/)

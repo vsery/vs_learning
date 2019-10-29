@@ -83,10 +83,10 @@
         - [部署到 Heroku](/blogs/book/4.15%20%E9%83%A8%E7%BD%B2.md#4152-部署到-heroku)
         - [部署到 UCloud](/blogs/book/4.15%20%E9%83%A8%E7%BD%B2.md#4153-部署到-ucloud)
 
-## 捐赠
+<!-- ## 捐赠
 
 您的捐赠，是我持续开源的动力。
 
 支付宝 | 微信
 ------|------
-![](./public/alipay.png) | ![](./public/wechat.jpeg)
+![](./public/alipay.png) | ![](./public/wechat.jpeg) -->
