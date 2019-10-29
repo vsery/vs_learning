@@ -8,7 +8,7 @@
 
 目录 [我只是互联网的一个搬运工]
 
-* [Vue相关开源项目库汇总](/vue.md)
+* [Vue相关开源项目库汇总](/vue-files.md)
 
 * [全栈工程师 -- 材料](/full-stack/README.md)
 
