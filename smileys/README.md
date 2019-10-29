@@ -4,7 +4,8 @@
 ✈现代浏览器或Flash启用了吗?点击表情符号代码，它将被复制到你的剪贴板上。
 
 ## People
-
+| 标签 | 代码 |
+| --: | :--: |
 | :bowtie: | ``` :bowtie: ``` |
 | :smile: | ``` :smile: ``` |
 | :simple_smile: | ``` :simple_smile: ``` |
@@ -198,9 +199,11 @@
 | :rage3: | ``` :rage3: ``` |
 | :rage4: | ``` :rage4: ``` |
 | :suspect: | ``` :suspect: ``` |
-:trollface:
-## Nature
+| :trollface: | ``` :trollface: ``` |
 
+## Nature
+| 标签 | 代码 |
+| --: | :--: |
 | :sunny: | ``` :sunny: ``` |
 | :umbrella: | ``` :umbrella: ``` |
 | :cloud: | ``` :cloud: ``` |
@@ -315,9 +318,11 @@
 | :milky_way: | ``` :milky_way: ``` |
 | :partly_sunny: | ``` :partly_sunny: ``` |
 | :octocat: | ``` :octocat: ``` |
-:squirrel:
-## Objects
+| :squirrel: | ``` :squirrel: ``` |
 
+## Objects
+| 标签 | 代码 |
+| --: | :--: |
 | :bamboo: | ``` :bamboo: ``` |
 | :gift_heart: | ``` :gift_heart: ``` |
 | :dolls: | ``` :dolls: ``` |
@@ -577,9 +582,11 @@
 | :sweet_potato: | ``` :sweet_potato: ``` |
 | :eggplant: | ``` :eggplant: ``` |
 | :tomato: | ``` :tomato: ``` |
-:corn:
-## Places
+| :corn: | ``` :corn: ``` |
 
+## Places
+| 标签 | 代码 |
+| --: | :--: |
 | :house: | ``` :house: ``` |
 | :house_with_garden: | ``` :house_with_garden: ``` |
 | :school: | ``` :school: ``` |
@@ -685,9 +692,11 @@
 | :ru: | ``` :ru: ``` |
 | :gb: | ``` :gb: ``` |
 | :uk: | ``` :uk: ``` |
-:de:
-## Symbols
+| :de: | ``` :de: ``` |
 
+## Symbols
+| 标签 | 代码 |
+| --: | :--: |
 | :one: | ``` :one: ``` |
 | :two: | ``` :two: ``` |
 | :three: | ``` :three: ``` |
@@ -891,8 +900,7 @@
 | :small_red_triangle_down: | ``` :small_red_triangle_down: ``` |
 | :shipit: | ``` :shipit: ``` |
 
-## Campfire also supports a few sounds
-
+### Campfire also supports a few sounds
 ► /play secret
 
 ► /play trombone
