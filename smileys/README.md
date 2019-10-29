@@ -4,1757 +4,2629 @@
 ✈现代浏览器或Flash启用了吗?点击表情符号代码，它将被复制到你的剪贴板上。
 
  People
-[bowtie]:bowtie:
+:bowtie:
+``` :bowtie: ```
 
-[smile]:smile:
+:smile:
+``` :smile: ```
 
-[simple_smile]:simple_smile:
+:simple_smile:
+``` :simple_smile: ```
 
-[laughing]:laughing:
+:laughing:
+``` :laughing: ```
 
-[blush]:blush:
+:blush:
+``` :blush: ```
 
-[smiley]:smiley:
+:smiley:
+``` :smiley: ```
 
-[relaxed]:relaxed:
+:relaxed:
+``` :relaxed: ```
 
-[smirk]:smirk:
+:smirk:
+``` :smirk: ```
 
-[heart_eyes]:heart_eyes:
+:heart_eyes:
+``` :heart_eyes: ```
 
-[kissing_heart]:kissing_heart:
+:kissing_heart:
+``` :kissing_heart: ```
 
-[kissing_closed_eyes]:kissing_closed_eyes:
+:kissing_closed_eyes:
+``` :kissing_closed_eyes: ```
 
-[flushed]:flushed:
+:flushed:
+``` :flushed: ```
 
-[relieved]:relieved:
+:relieved:
+``` :relieved: ```
 
-[satisfied]:satisfied:
+:satisfied:
+``` :satisfied: ```
 
-[grin]:grin:
+:grin:
+``` :grin: ```
 
-[wink]:wink:
+:wink:
+``` :wink: ```
 
-[stuck_out_tongue_winking_eye]:stuck_out_tongue_winking_eye:
+:stuck_out_tongue_winking_eye:
+``` :stuck_out_tongue_winking_eye: ```
 
-[stuck_out_tongue_closed_eyes]:stuck_out_tongue_closed_eyes:
+:stuck_out_tongue_closed_eyes:
+``` :stuck_out_tongue_closed_eyes: ```
 
-[grinning]:grinning:
+:grinning:
+``` :grinning: ```
 
-[kissing]:kissing:
+:kissing:
+``` :kissing: ```
 
-[kissing_smiling_eyes]:kissing_smiling_eyes:
+:kissing_smiling_eyes:
+``` :kissing_smiling_eyes: ```
 
-[stuck_out_tongue]:stuck_out_tongue:
+:stuck_out_tongue:
+``` :stuck_out_tongue: ```
 
-[sleeping]:sleeping:
+:sleeping:
+``` :sleeping: ```
 
-[worried]:worried:
+:worried:
+``` :worried: ```
 
-[frowning]:frowning:
+:frowning:
+``` :frowning: ```
 
-[anguished]:anguished:
+:anguished:
+``` :anguished: ```
 
-[open_mouth]:open_mouth:
+:open_mouth:
+``` :open_mouth: ```
 
-[grimacing]:grimacing:
+:grimacing:
+``` :grimacing: ```
 
-[confused]:confused:
+:confused:
+``` :confused: ```
 
-[hushed]:hushed:
+:hushed:
+``` :hushed: ```
 
-[expressionless]:expressionless:
+:expressionless:
+``` :expressionless: ```
 
-[unamused]:unamused:
+:unamused:
+``` :unamused: ```
 
-[sweat_smile]:sweat_smile:
+:sweat_smile:
+``` :sweat_smile: ```
 
-[sweat]:sweat:
+:sweat:
+``` :sweat: ```
 
-[disappointed_relieved]:disappointed_relieved:
+:disappointed_relieved:
+``` :disappointed_relieved: ```
 
-[weary]:weary:
+:weary:
+``` :weary: ```
 
-[pensive]:pensive:
+:pensive:
+``` :pensive: ```
 
-[disappointed]:disappointed:
+:disappointed:
+``` :disappointed: ```
 
-[confounded]:confounded:
+:confounded:
+``` :confounded: ```
 
-[fearful]:fearful:
+:fearful:
+``` :fearful: ```
 
-[cold_sweat]:cold_sweat:
+:cold_sweat:
+``` :cold_sweat: ```
 
-[persevere]:persevere:
+:persevere:
+``` :persevere: ```
 
-[cry]:cry:
+:cry:
+``` :cry: ```
 
-[sob]:sob:
+:sob:
+``` :sob: ```
 
-[joy]:joy:
+:joy:
+``` :joy: ```
 
-[astonished]:astonished:
+:astonished:
+``` :astonished: ```
 
-[scream]:scream:
+:scream:
+``` :scream: ```
 
-[neckbeard]:neckbeard:
+:neckbeard:
+``` :neckbeard: ```
 
-[tired_face]:tired_face:
+:tired_face:
+``` :tired_face: ```
 
-[angry]:angry:
+:angry:
+``` :angry: ```
 
-[rage]:rage:
+:rage:
+``` :rage: ```
 
-[triumph]:triumph:
+:triumph:
+``` :triumph: ```
 
-[sleepy]:sleepy:
+:sleepy:
+``` :sleepy: ```
 
-[yum]:yum:
+:yum:
+``` :yum: ```
 
-[mask]:mask:
+:mask:
+``` :mask: ```
 
-[sunglasses]:sunglasses:
+:sunglasses:
+``` :sunglasses: ```
 
-[dizzy_face]:dizzy_face:
+:dizzy_face:
+``` :dizzy_face: ```
 
-[imp]:imp:
+:imp:
+``` :imp: ```
 
-[smiling_imp]:smiling_imp:
+:smiling_imp:
+``` :smiling_imp: ```
 
-[neutral_face]:neutral_face:
+:neutral_face:
+``` :neutral_face: ```
 
-[no_mouth]:no_mouth:
+:no_mouth:
+``` :no_mouth: ```
 
-[innocent]:innocent:
+:innocent:
+``` :innocent: ```
 
-[alien]:alien:
+:alien:
+``` :alien: ```
 
-[yellow_heart]:yellow_heart:
+:yellow_heart:
+``` :yellow_heart: ```
 
-[blue_heart]:blue_heart:
+:blue_heart:
+``` :blue_heart: ```
 
-[purple_heart]:purple_heart:
+:purple_heart:
+``` :purple_heart: ```
 
-[heart]:heart:
+:heart:
+``` :heart: ```
 
-[green_heart]:green_heart:
+:green_heart:
+``` :green_heart: ```
 
-[broken_heart]:broken_heart:
+:broken_heart:
+``` :broken_heart: ```
 
-[heartbeat]:heartbeat:
+:heartbeat:
+``` :heartbeat: ```
 
-[heartpulse]:heartpulse:
+:heartpulse:
+``` :heartpulse: ```
 
-[two_hearts]:two_hearts:
+:two_hearts:
+``` :two_hearts: ```
 
-[revolving_hearts]:revolving_hearts:
+:revolving_hearts:
+``` :revolving_hearts: ```
 
-[cupid]:cupid:
+:cupid:
+``` :cupid: ```
 
-[sparkling_heart]:sparkling_heart:
+:sparkling_heart:
+``` :sparkling_heart: ```
 
-[sparkles]:sparkles:
+:sparkles:
+``` :sparkles: ```
 
-[star]:star:
+:star:
+``` :star: ```
 
-[star2]:star2:
+:star2:
+``` :star2: ```
 
-[dizzy]:dizzy:
+:dizzy:
+``` :dizzy: ```
 
-[boom]:boom:
+:boom:
+``` :boom: ```
 
-[collision]:collision:
+:collision:
+``` :collision: ```
 
-[anger]:anger:
+:anger:
+``` :anger: ```
 
-[exclamation]:exclamation:
+:exclamation:
+``` :exclamation: ```
 
-[question]:question:
+:question:
+``` :question: ```
 
-[grey_exclamation]:grey_exclamation:
+:grey_exclamation:
+``` :grey_exclamation: ```
 
-[grey_question]:grey_question:
+:grey_question:
+``` :grey_question: ```
 
-[zzz]:zzz:
+:zzz:
+``` :zzz: ```
 
-[dash]:dash:
+:dash:
+``` :dash: ```
 
-[sweat_drops]:sweat_drops:
+:sweat_drops:
+``` :sweat_drops: ```
 
-[notes]:notes:
+:notes:
+``` :notes: ```
 
-[musical_note]:musical_note:
+:musical_note:
+``` :musical_note: ```
 
-[fire]:fire:
+:fire:
+``` :fire: ```
 
-[hankey]:hankey:
+:hankey:
+``` :hankey: ```
 
-[poop]:poop:
+:poop:
+``` :poop: ```
 
-[shit]:shit:
+:shit:
+``` :shit: ```
 
-:[1]+1:
+:+1:
+``` :+1: ```
 
-[thumbsup]:thumbsup:
+:thumbsup:
+``` :thumbsup: ```
 
-:[1]-1:
+:-1:
+``` :-1: ```
 
-[thumbsdown]:thumbsdown:
+:thumbsdown:
+``` :thumbsdown: ```
 
-[ok_hand]:ok_hand:
+:ok_hand:
+``` :ok_hand: ```
 
-[punch]:punch:
+:punch:
+``` :punch: ```
 
-[facepunch]:facepunch:
+:facepunch:
+``` :facepunch: ```
 
-[fist]:fist:
+:fist:
+``` :fist: ```
 
-[v]:v:
+:v:
+``` :v: ```
 
-[wave]:wave:
+:wave:
+``` :wave: ```
 
-[hand]:hand:
+:hand:
+``` :hand: ```
 
-[raised_hand]:raised_hand:
+:raised_hand:
+``` :raised_hand: ```
 
-[open_hands]:open_hands:
+:open_hands:
+``` :open_hands: ```
 
-[point_up]:point_up:
+:point_up:
+``` :point_up: ```
 
-[point_down]:point_down:
+:point_down:
+``` :point_down: ```
 
-[point_left]:point_left:
+:point_left:
+``` :point_left: ```
 
-[point_right]:point_right:
+:point_right:
+``` :point_right: ```
 
-[raised_hands]:raised_hands:
+:raised_hands:
+``` :raised_hands: ```
 
-[pray]:pray:
+:pray:
+``` :pray: ```
 
-[point_up_2]:point_up_2:
+:point_up_2:
+``` :point_up_2: ```
 
-[clap]:clap:
+:clap:
+``` :clap: ```
 
-[muscle]:muscle:
+:muscle:
+``` :muscle: ```
 
-[metal]:metal:
+:metal:
+``` :metal: ```
 
-[fu]:fu:
+:fu:
+``` :fu: ```
 
-[runner]:runner:
+:runner:
+``` :runner: ```
 
-[running]:running:
+:running:
+``` :running: ```
 
-[couple]:couple:
+:couple:
+``` :couple: ```
 
-[family]:family:
+:family:
+``` :family: ```
 
-[two_men_holding_hands]:two_men_holding_hands:
+:two_men_holding_hands:
+``` :two_men_holding_hands: ```
 
-[two_women_holding_hands]:two_women_holding_hands:
+:two_women_holding_hands:
+``` :two_women_holding_hands: ```
 
-[dancer]:dancer:
+:dancer:
+``` :dancer: ```
 
-[dancers]:dancers:
+:dancers:
+``` :dancers: ```
 
-[ok_woman]:ok_woman:
+:ok_woman:
+``` :ok_woman: ```
 
-[no_good]:no_good:
+:no_good:
+``` :no_good: ```
 
-[information_desk_person]:information_desk_person:
+:information_desk_person:
+``` :information_desk_person: ```
 
-[raising_hand]:raising_hand:
+:raising_hand:
+``` :raising_hand: ```
 
-[bride_with_veil]:bride_with_veil:
+:bride_with_veil:
+``` :bride_with_veil: ```
 
-[person_with_pouting_face]:person_with_pouting_face:
+:person_with_pouting_face:
+``` :person_with_pouting_face: ```
 
-[person_frowning]:person_frowning:
+:person_frowning:
+``` :person_frowning: ```
 
-[bow]:bow:
+:bow:
+``` :bow: ```
 
-[couplekiss]:couplekiss:
+:couplekiss:
+``` :couplekiss: ```
 
-[couple_with_heart]:couple_with_heart:
+:couple_with_heart:
+``` :couple_with_heart: ```
 
-[massage]:massage:
+:massage:
+``` :massage: ```
 
-[haircut]:haircut:
+:haircut:
+``` :haircut: ```
 
-[nail_care]:nail_care:
+:nail_care:
+``` :nail_care: ```
 
-[boy]:boy:
+:boy:
+``` :boy: ```
 
-[girl]:girl:
+:girl:
+``` :girl: ```
 
-[woman]:woman:
+:woman:
+``` :woman: ```
 
-[man]:man:
+:man:
+``` :man: ```
 
-[baby]:baby:
+:baby:
+``` :baby: ```
 
-[older_woman]:older_woman:
+:older_woman:
+``` :older_woman: ```
 
-[older_man]:older_man:
+:older_man:
+``` :older_man: ```
 
-[person_with_blond_hair]:person_with_blond_hair:
+:person_with_blond_hair:
+``` :person_with_blond_hair: ```
 
-[man_with_gua_pi_mao]:man_with_gua_pi_mao:
+:man_with_gua_pi_mao:
+``` :man_with_gua_pi_mao: ```
 
-[man_with_turban]:man_with_turban:
+:man_with_turban:
+``` :man_with_turban: ```
 
-[construction_worker]:construction_worker:
+:construction_worker:
+``` :construction_worker: ```
 
-[cop]:cop:
+:cop:
+``` :cop: ```
 
-[angel]:angel:
+:angel:
+``` :angel: ```
 
-[princess]:princess:
+:princess:
+``` :princess: ```
 
-[smiley_cat]:smiley_cat:
+:smiley_cat:
+``` :smiley_cat: ```
 
-[smile_cat]:smile_cat:
+:smile_cat:
+``` :smile_cat: ```
 
-[heart_eyes_cat]:heart_eyes_cat:
+:heart_eyes_cat:
+``` :heart_eyes_cat: ```
 
-[kissing_cat]:kissing_cat:
+:kissing_cat:
+``` :kissing_cat: ```
 
-[smirk_cat]:smirk_cat:
+:smirk_cat:
+``` :smirk_cat: ```
 
-[scream_cat]:scream_cat:
+:scream_cat:
+``` :scream_cat: ```
 
-[crying_cat_face]:crying_cat_face:
+:crying_cat_face:
+``` :crying_cat_face: ```
 
-[joy_cat]:joy_cat:
+:joy_cat:
+``` :joy_cat: ```
 
-[pouting_cat]:pouting_cat:
+:pouting_cat:
+``` :pouting_cat: ```
 
-[japanese_ogre]:japanese_ogre:
+:japanese_ogre:
+``` :japanese_ogre: ```
 
-[japanese_goblin]:japanese_goblin:
+:japanese_goblin:
+``` :japanese_goblin: ```
 
-[see_no_evil]:see_no_evil:
+:see_no_evil:
+``` :see_no_evil: ```
 
-[hear_no_evil]:hear_no_evil:
+:hear_no_evil:
+``` :hear_no_evil: ```
 
-[speak_no_evil]:speak_no_evil:
+:speak_no_evil:
+``` :speak_no_evil: ```
 
-[guardsman]:guardsman:
+:guardsman:
+``` :guardsman: ```
 
-[skull]:skull:
+:skull:
+``` :skull: ```
 
-[feet]:feet:
+:feet:
+``` :feet: ```
 
-[lips]:lips:
+:lips:
+``` :lips: ```
 
-[kiss]:kiss:
+:kiss:
+``` :kiss: ```
 
-[droplet]:droplet:
+:droplet:
+``` :droplet: ```
 
-[ear]:ear:
+:ear:
+``` :ear: ```
 
-[eyes]:eyes:
+:eyes:
+``` :eyes: ```
 
-[nose]:nose:
+:nose:
+``` :nose: ```
 
-[tongue]:tongue:
+:tongue:
+``` :tongue: ```
 
-[love_letter]:love_letter:
+:love_letter:
+``` :love_letter: ```
 
-[bust_in_silhouette]:bust_in_silhouette:
+:bust_in_silhouette:
+``` :bust_in_silhouette: ```
 
-[busts_in_silhouette]:busts_in_silhouette:
+:busts_in_silhouette:
+``` :busts_in_silhouette: ```
 
-[speech_balloon]:speech_balloon:
+:speech_balloon:
+``` :speech_balloon: ```
 
-[thought_balloon]:thought_balloon:
+:thought_balloon:
+``` :thought_balloon: ```
 
-[feelsgood]:feelsgood:
+:feelsgood:
+``` :feelsgood: ```
 
-[finnadie]:finnadie:
+:finnadie:
+``` :finnadie: ```
 
-[goberserk]:goberserk:
+:goberserk:
+``` :goberserk: ```
 
-[godmode]:godmode:
+:godmode:
+``` :godmode: ```
 
-[hurtrealbad]:hurtrealbad:
+:hurtrealbad:
+``` :hurtrealbad: ```
 
-[rage1]:rage1:
+:rage1:
+``` :rage1: ```
 
-[rage2]:rage2:
+:rage2:
+``` :rage2: ```
 
-[rage3]:rage3:
+:rage3:
+``` :rage3: ```
 
-[rage4]:rage4:
+:rage4:
+``` :rage4: ```
 
-[suspect]:suspect:
+:suspect:
+``` :suspect: ```
 
 :trollface:
 Nature
-[sunny]:sunny:
+:sunny:
+``` :sunny: ```
 
-[umbrella]:umbrella:
+:umbrella:
+``` :umbrella: ```
 
-[cloud]:cloud:
+:cloud:
+``` :cloud: ```
 
-[snowflake]:snowflake:
+:snowflake:
+``` :snowflake: ```
 
-[snowman]:snowman:
+:snowman:
+``` :snowman: ```
 
-[zap]:zap:
+:zap:
+``` :zap: ```
 
-[cyclone]:cyclone:
+:cyclone:
+``` :cyclone: ```
 
-[foggy]:foggy:
+:foggy:
+``` :foggy: ```
 
-[ocean]:ocean:
+:ocean:
+``` :ocean: ```
 
-[cat]:cat:
+:cat:
+``` :cat: ```
 
-[dog]:dog:
+:dog:
+``` :dog: ```
 
-[mouse]:mouse:
+:mouse:
+``` :mouse: ```
 
-[hamster]:hamster:
+:hamster:
+``` :hamster: ```
 
-[rabbit]:rabbit:
+:rabbit:
+``` :rabbit: ```
 
-[wolf]:wolf:
+:wolf:
+``` :wolf: ```
 
-[frog]:frog:
+:frog:
+``` :frog: ```
 
-[tiger]:tiger:
+:tiger:
+``` :tiger: ```
 
-[koala]:koala:
+:koala:
+``` :koala: ```
 
-[bear]:bear:
+:bear:
+``` :bear: ```
 
-[pig]:pig:
+:pig:
+``` :pig: ```
 
-[pig_nose]:pig_nose:
+:pig_nose:
+``` :pig_nose: ```
 
-[cow]:cow:
+:cow:
+``` :cow: ```
 
-[boar]:boar:
+:boar:
+``` :boar: ```
 
-[monkey_face]:monkey_face:
+:monkey_face:
+``` :monkey_face: ```
 
-[monkey]:monkey:
+:monkey:
+``` :monkey: ```
 
-[horse]:horse:
+:horse:
+``` :horse: ```
 
-[racehorse]:racehorse:
+:racehorse:
+``` :racehorse: ```
 
-[camel]:camel:
+:camel:
+``` :camel: ```
 
-[sheep]:sheep:
+:sheep:
+``` :sheep: ```
 
-[elephant]:elephant:
+:elephant:
+``` :elephant: ```
 
-[panda_face]:panda_face:
+:panda_face:
+``` :panda_face: ```
 
-[snake]:snake:
+:snake:
+``` :snake: ```
 
-[bird]:bird:
+:bird:
+``` :bird: ```
 
-[baby_chick]:baby_chick:
+:baby_chick:
+``` :baby_chick: ```
 
-[hatched_chick]:hatched_chick:
+:hatched_chick:
+``` :hatched_chick: ```
 
-[hatching_chick]:hatching_chick:
+:hatching_chick:
+``` :hatching_chick: ```
 
-[chicken]:chicken:
+:chicken:
+``` :chicken: ```
 
-[penguin]:penguin:
+:penguin:
+``` :penguin: ```
 
-[turtle]:turtle:
+:turtle:
+``` :turtle: ```
 
-[bug]:bug:
+:bug:
+``` :bug: ```
 
-[honeybee]:honeybee:
+:honeybee:
+``` :honeybee: ```
 
-[ant]:ant:
+:ant:
+``` :ant: ```
 
-[beetle]:beetle:
+:beetle:
+``` :beetle: ```
 
-[snail]:snail:
+:snail:
+``` :snail: ```
 
-[octopus]:octopus:
+:octopus:
+``` :octopus: ```
 
-[tropical_fish]:tropical_fish:
+:tropical_fish:
+``` :tropical_fish: ```
 
-[fish]:fish:
+:fish:
+``` :fish: ```
 
-[whale]:whale:
+:whale:
+``` :whale: ```
 
-[whale2]:whale2:
+:whale2:
+``` :whale2: ```
 
-[dolphin]:dolphin:
+:dolphin:
+``` :dolphin: ```
 
-[cow2]:cow2:
+:cow2:
+``` :cow2: ```
 
-[ram]:ram:
+:ram:
+``` :ram: ```
 
-[rat]:rat:
+:rat:
+``` :rat: ```
 
-[water_buffalo]:water_buffalo:
+:water_buffalo:
+``` :water_buffalo: ```
 
-[tiger2]:tiger2:
+:tiger2:
+``` :tiger2: ```
 
-[rabbit2]:rabbit2:
+:rabbit2:
+``` :rabbit2: ```
 
-[dragon]:dragon:
+:dragon:
+``` :dragon: ```
 
-[goat]:goat:
+:goat:
+``` :goat: ```
 
-[rooster]:rooster:
+:rooster:
+``` :rooster: ```
 
-[dog2]:dog2:
+:dog2:
+``` :dog2: ```
 
-[pig2]:pig2:
+:pig2:
+``` :pig2: ```
 
-[mouse2]:mouse2:
+:mouse2:
+``` :mouse2: ```
 
-[ox]:ox:
+:ox:
+``` :ox: ```
 
-[dragon_face]:dragon_face:
+:dragon_face:
+``` :dragon_face: ```
 
-[blowfish]:blowfish:
+:blowfish:
+``` :blowfish: ```
 
-[crocodile]:crocodile:
+:crocodile:
+``` :crocodile: ```
 
-[dromedary_camel]:dromedary_camel:
+:dromedary_camel:
+``` :dromedary_camel: ```
 
-[leopard]:leopard:
+:leopard:
+``` :leopard: ```
 
-[cat2]:cat2:
+:cat2:
+``` :cat2: ```
 
-[poodle]:poodle:
+:poodle:
+``` :poodle: ```
 
-[paw_prints]:paw_prints:
+:paw_prints:
+``` :paw_prints: ```
 
-[bouquet]:bouquet:
+:bouquet:
+``` :bouquet: ```
 
-[cherry_blossom]:cherry_blossom:
+:cherry_blossom:
+``` :cherry_blossom: ```
 
-[tulip]:tulip:
+:tulip:
+``` :tulip: ```
 
-[four_leaf_clover]:four_leaf_clover:
+:four_leaf_clover:
+``` :four_leaf_clover: ```
 
-[rose]:rose:
+:rose:
+``` :rose: ```
 
-[sunflower]:sunflower:
+:sunflower:
+``` :sunflower: ```
 
-[hibiscus]:hibiscus:
+:hibiscus:
+``` :hibiscus: ```
 
-[maple_leaf]:maple_leaf:
+:maple_leaf:
+``` :maple_leaf: ```
 
-[leaves]:leaves:
+:leaves:
+``` :leaves: ```
 
-[fallen_leaf]:fallen_leaf:
+:fallen_leaf:
+``` :fallen_leaf: ```
 
-[herb]:herb:
+:herb:
+``` :herb: ```
 
-[mushroom]:mushroom:
+:mushroom:
+``` :mushroom: ```
 
-[cactus]:cactus:
+:cactus:
+``` :cactus: ```
 
-[palm_tree]:palm_tree:
+:palm_tree:
+``` :palm_tree: ```
 
-[evergreen_tree]:evergreen_tree:
+:evergreen_tree:
+``` :evergreen_tree: ```
 
-[deciduous_tree]:deciduous_tree:
+:deciduous_tree:
+``` :deciduous_tree: ```
 
-[chestnut]:chestnut:
+:chestnut:
+``` :chestnut: ```
 
-[seedling]:seedling:
+:seedling:
+``` :seedling: ```
 
-[blossom]:blossom:
+:blossom:
+``` :blossom: ```
 
-[ear_of_rice]:ear_of_rice:
+:ear_of_rice:
+``` :ear_of_rice: ```
 
-[shell]:shell:
+:shell:
+``` :shell: ```
 
-[globe_with_meridians]:globe_with_meridians:
+:globe_with_meridians:
+``` :globe_with_meridians: ```
 
-[sun_with_face]:sun_with_face:
+:sun_with_face:
+``` :sun_with_face: ```
 
-[full_moon_with_face]:full_moon_with_face:
+:full_moon_with_face:
+``` :full_moon_with_face: ```
 
-[new_moon_with_face]:new_moon_with_face:
+:new_moon_with_face:
+``` :new_moon_with_face: ```
 
-[new_moon]:new_moon:
+:new_moon:
+``` :new_moon: ```
 
-[waxing_crescent_moon]:waxing_crescent_moon:
+:waxing_crescent_moon:
+``` :waxing_crescent_moon: ```
 
-[first_quarter_moon]:first_quarter_moon:
+:first_quarter_moon:
+``` :first_quarter_moon: ```
 
-[waxing_gibbous_moon]:waxing_gibbous_moon:
+:waxing_gibbous_moon:
+``` :waxing_gibbous_moon: ```
 
-[full_moon]:full_moon:
+:full_moon:
+``` :full_moon: ```
 
-[waning_gibbous_moon]:waning_gibbous_moon:
+:waning_gibbous_moon:
+``` :waning_gibbous_moon: ```
 
-[last_quarter_moon]:last_quarter_moon:
+:last_quarter_moon:
+``` :last_quarter_moon: ```
 
-[waning_crescent_moon]:waning_crescent_moon:
+:waning_crescent_moon:
+``` :waning_crescent_moon: ```
 
-[last_quarter_moon_with_face]:last_quarter_moon_with_face:
+:last_quarter_moon_with_face:
+``` :last_quarter_moon_with_face: ```
 
-[first_quarter_moon_with_face]:first_quarter_moon_with_face:
+:first_quarter_moon_with_face:
+``` :first_quarter_moon_with_face: ```
 
-[crescent_moon]:crescent_moon:
+:crescent_moon:
+``` :crescent_moon: ```
 
-[earth_africa]:earth_africa:
+:earth_africa:
+``` :earth_africa: ```
 
-[earth_americas]:earth_americas:
+:earth_americas:
+``` :earth_americas: ```
 
-[earth_asia]:earth_asia:
+:earth_asia:
+``` :earth_asia: ```
 
-[volcano]:volcano:
+:volcano:
+``` :volcano: ```
 
-[milky_way]:milky_way:
+:milky_way:
+``` :milky_way: ```
 
-[partly_sunny]:partly_sunny:
+:partly_sunny:
+``` :partly_sunny: ```
 
-[octocat]:octocat:
+:octocat:
+``` :octocat: ```
 
 :squirrel:
 Objects
-[bamboo]:bamboo:
+:bamboo:
+``` :bamboo: ```
 
-[gift_heart]:gift_heart:
+:gift_heart:
+``` :gift_heart: ```
 
-[dolls]:dolls:
+:dolls:
+``` :dolls: ```
 
-[school_satchel]:school_satchel:
+:school_satchel:
+``` :school_satchel: ```
 
-[mortar_board]:mortar_board:
+:mortar_board:
+``` :mortar_board: ```
 
-[flags]:flags:
+:flags:
+``` :flags: ```
 
-[fireworks]:fireworks:
+:fireworks:
+``` :fireworks: ```
 
-[sparkler]:sparkler:
+:sparkler:
+``` :sparkler: ```
 
-[wind_chime]:wind_chime:
+:wind_chime:
+``` :wind_chime: ```
 
-[rice_scene]:rice_scene:
+:rice_scene:
+``` :rice_scene: ```
 
-[jack_o_lantern]:jack_o_lantern:
+:jack_o_lantern:
+``` :jack_o_lantern: ```
 
-[ghost]:ghost:
+:ghost:
+``` :ghost: ```
 
-[santa]:santa:
+:santa:
+``` :santa: ```
 
-[christmas_tree]:christmas_tree:
+:christmas_tree:
+``` :christmas_tree: ```
 
-[gift]:gift:
+:gift:
+``` :gift: ```
 
-[bell]:bell:
+:bell:
+``` :bell: ```
 
-[no_bell]:no_bell:
+:no_bell:
+``` :no_bell: ```
 
-[tanabata_tree]:tanabata_tree:
+:tanabata_tree:
+``` :tanabata_tree: ```
 
-[tada]:tada:
+:tada:
+``` :tada: ```
 
-[confetti_ball]:confetti_ball:
+:confetti_ball:
+``` :confetti_ball: ```
 
-[balloon]:balloon:
+:balloon:
+``` :balloon: ```
 
-[crystal_ball]:crystal_ball:
+:crystal_ball:
+``` :crystal_ball: ```
 
-[cd]:cd:
+:cd:
+``` :cd: ```
 
-[dvd]:dvd:
+:dvd:
+``` :dvd: ```
 
-[floppy_disk]:floppy_disk:
+:floppy_disk:
+``` :floppy_disk: ```
 
-[camera]:camera:
+:camera:
+``` :camera: ```
 
-[video_camera]:video_camera:
+:video_camera:
+``` :video_camera: ```
 
-[movie_camera]:movie_camera:
+:movie_camera:
+``` :movie_camera: ```
 
-[computer]:computer:
+:computer:
+``` :computer: ```
 
-[tv]:tv:
+:tv:
+``` :tv: ```
 
-[iphone]:iphone:
+:iphone:
+``` :iphone: ```
 
-[phone]:phone:
+:phone:
+``` :phone: ```
 
-[telephone]:telephone:
+:telephone:
+``` :telephone: ```
 
-[telephone_receiver]:telephone_receiver:
+:telephone_receiver:
+``` :telephone_receiver: ```
 
-[pager]:pager:
+:pager:
+``` :pager: ```
 
-[fax]:fax:
+:fax:
+``` :fax: ```
 
-[minidisc]:minidisc:
+:minidisc:
+``` :minidisc: ```
 
-[vhs]:vhs:
+:vhs:
+``` :vhs: ```
 
-[sound]:sound:
+:sound:
+``` :sound: ```
 
-[speaker]:speaker:
+:speaker:
+``` :speaker: ```
 
-[mute]:mute:
+:mute:
+``` :mute: ```
 
-[loudspeaker]:loudspeaker:
+:loudspeaker:
+``` :loudspeaker: ```
 
-[mega]:mega:
+:mega:
+``` :mega: ```
 
-[hourglass]:hourglass:
+:hourglass:
+``` :hourglass: ```
 
-[hourglass_flowing_sand]:hourglass_flowing_sand:
+:hourglass_flowing_sand:
+``` :hourglass_flowing_sand: ```
 
-[alarm_clock]:alarm_clock:
+:alarm_clock:
+``` :alarm_clock: ```
 
-[watch]:watch:
+:watch:
+``` :watch: ```
 
-[radio]:radio:
+:radio:
+``` :radio: ```
 
-[satellite]:satellite:
+:satellite:
+``` :satellite: ```
 
-[loop]:loop:
+:loop:
+``` :loop: ```
 
-[mag]:mag:
+:mag:
+``` :mag: ```
 
-[mag_right]:mag_right:
+:mag_right:
+``` :mag_right: ```
 
-[unlock]:unlock:
+:unlock:
+``` :unlock: ```
 
-[lock]:lock:
+:lock:
+``` :lock: ```
 
-[lock_with_ink_pen]:lock_with_ink_pen:
+:lock_with_ink_pen:
+``` :lock_with_ink_pen: ```
 
-[closed_lock_with_key]:closed_lock_with_key:
+:closed_lock_with_key:
+``` :closed_lock_with_key: ```
 
-[key]:key:
+:key:
+``` :key: ```
 
-[bulb]:bulb:
+:bulb:
+``` :bulb: ```
 
-[flashlight]:flashlight:
+:flashlight:
+``` :flashlight: ```
 
-[high_brightness]:high_brightness:
+:high_brightness:
+``` :high_brightness: ```
 
-[low_brightness]:low_brightness:
+:low_brightness:
+``` :low_brightness: ```
 
-[electric_plug]:electric_plug:
+:electric_plug:
+``` :electric_plug: ```
 
-[battery]:battery:
+:battery:
+``` :battery: ```
 
-[calling]:calling:
+:calling:
+``` :calling: ```
 
-[email]:email:
+:email:
+``` :email: ```
 
-[mailbox]:mailbox:
+:mailbox:
+``` :mailbox: ```
 
-[postbox]:postbox:
+:postbox:
+``` :postbox: ```
 
-[bath]:bath:
+:bath:
+``` :bath: ```
 
-[bathtub]:bathtub:
+:bathtub:
+``` :bathtub: ```
 
-[shower]:shower:
+:shower:
+``` :shower: ```
 
-[toilet]:toilet:
+:toilet:
+``` :toilet: ```
 
-[wrench]:wrench:
+:wrench:
+``` :wrench: ```
 
-[nut_and_bolt]:nut_and_bolt:
+:nut_and_bolt:
+``` :nut_and_bolt: ```
 
-[hammer]:hammer:
+:hammer:
+``` :hammer: ```
 
-[seat]:seat:
+:seat:
+``` :seat: ```
 
-[moneybag]:moneybag:
+:moneybag:
+``` :moneybag: ```
 
-[yen]:yen:
+:yen:
+``` :yen: ```
 
-[dollar]:dollar:
+:dollar:
+``` :dollar: ```
 
-[pound]:pound:
+:pound:
+``` :pound: ```
 
-[euro]:euro:
+:euro:
+``` :euro: ```
 
-[credit_card]:credit_card:
+:credit_card:
+``` :credit_card: ```
 
-[money_with_wings]:money_with_wings:
+:money_with_wings:
+``` :money_with_wings: ```
 
-:e[mail]-mail:
+:e-mail:
+``` :e-mail: ```
 
-[inbox_tray]:inbox_tray:
+:inbox_tray:
+``` :inbox_tray: ```
 
-[outbox_tray]:outbox_tray:
+:outbox_tray:
+``` :outbox_tray: ```
 
-[envelope]:envelope:
+:envelope:
+``` :envelope: ```
 
-[incoming_envelope]:incoming_envelope:
+:incoming_envelope:
+``` :incoming_envelope: ```
 
-[postal_horn]:postal_horn:
+:postal_horn:
+``` :postal_horn: ```
 
-[mailbox_closed]:mailbox_closed:
+:mailbox_closed:
+``` :mailbox_closed: ```
 
-[mailbox_with_mail]:mailbox_with_mail:
+:mailbox_with_mail:
+``` :mailbox_with_mail: ```
 
-[mailbox_with_no_mail]:mailbox_with_no_mail:
+:mailbox_with_no_mail:
+``` :mailbox_with_no_mail: ```
 
-[package]:package:
+:package:
+``` :package: ```
 
-[door]:door:
+:door:
+``` :door: ```
 
-[smoking]:smoking:
+:smoking:
+``` :smoking: ```
 
-[bomb]:bomb:
+:bomb:
+``` :bomb: ```
 
-[gun]:gun:
+:gun:
+``` :gun: ```
 
-[hocho]:hocho:
+:hocho:
+``` :hocho: ```
 
-[pill]:pill:
+:pill:
+``` :pill: ```
 
-[syringe]:syringe:
+:syringe:
+``` :syringe: ```
 
-[page_facing_up]:page_facing_up:
+:page_facing_up:
+``` :page_facing_up: ```
 
-[page_with_curl]:page_with_curl:
+:page_with_curl:
+``` :page_with_curl: ```
 
-[bookmark_tabs]:bookmark_tabs:
+:bookmark_tabs:
+``` :bookmark_tabs: ```
 
-[bar_chart]:bar_chart:
+:bar_chart:
+``` :bar_chart: ```
 
-[chart_with_upwards_trend]:chart_with_upwards_trend:
+:chart_with_upwards_trend:
+``` :chart_with_upwards_trend: ```
 
-[chart_with_downwards_trend]:chart_with_downwards_trend:
+:chart_with_downwards_trend:
+``` :chart_with_downwards_trend: ```
 
-[scroll]:scroll:
+:scroll:
+``` :scroll: ```
 
-[clipboard]:clipboard:
+:clipboard:
+``` :clipboard: ```
 
-[calendar]:calendar:
+:calendar:
+``` :calendar: ```
 
-[date]:date:
+:date:
+``` :date: ```
 
-[card_index]:card_index:
+:card_index:
+``` :card_index: ```
 
-[file_folder]:file_folder:
+:file_folder:
+``` :file_folder: ```
 
-[open_file_folder]:open_file_folder:
+:open_file_folder:
+``` :open_file_folder: ```
 
-[scissors]:scissors:
+:scissors:
+``` :scissors: ```
 
-[pushpin]:pushpin:
+:pushpin:
+``` :pushpin: ```
 
-[paperclip]:paperclip:
+:paperclip:
+``` :paperclip: ```
 
-[black_nib]:black_nib:
+:black_nib:
+``` :black_nib: ```
 
-[pencil2]:pencil2:
+:pencil2:
+``` :pencil2: ```
 
-[straight_ruler]:straight_ruler:
+:straight_ruler:
+``` :straight_ruler: ```
 
-[triangular_ruler]:triangular_ruler:
+:triangular_ruler:
+``` :triangular_ruler: ```
 
-[closed_book]:closed_book:
+:closed_book:
+``` :closed_book: ```
 
-[green_book]:green_book:
+:green_book:
+``` :green_book: ```
 
-[blue_book]:blue_book:
+:blue_book:
+``` :blue_book: ```
 
-[orange_book]:orange_book:
+:orange_book:
+``` :orange_book: ```
 
-[notebook]:notebook:
+:notebook:
+``` :notebook: ```
 
-[notebook_with_decorative_cover]:notebook_with_decorative_cover:
+:notebook_with_decorative_cover:
+``` :notebook_with_decorative_cover: ```
 
-[ledger]:ledger:
+:ledger:
+``` :ledger: ```
 
-[books]:books:
+:books:
+``` :books: ```
 
-[bookmark]:bookmark:
+:bookmark:
+``` :bookmark: ```
 
-[name_badge]:name_badge:
+:name_badge:
+``` :name_badge: ```
 
-[microscope]:microscope:
+:microscope:
+``` :microscope: ```
 
-[telescope]:telescope:
+:telescope:
+``` :telescope: ```
 
-[newspaper]:newspaper:
+:newspaper:
+``` :newspaper: ```
 
-[football]:football:
+:football:
+``` :football: ```
 
-[basketball]:basketball:
+:basketball:
+``` :basketball: ```
 
-[soccer]:soccer:
+:soccer:
+``` :soccer: ```
 
-[baseball]:baseball:
+:baseball:
+``` :baseball: ```
 
-[tennis]:tennis:
+:tennis:
+``` :tennis: ```
 
-[8ball]:8ball:
+:8ball:
+``` :8ball: ```
 
-[rugby_football]:rugby_football:
+:rugby_football:
+``` :rugby_football: ```
 
-[bowling]:bowling:
+:bowling:
+``` :bowling: ```
 
-[golf]:golf:
+:golf:
+``` :golf: ```
 
-[mountain_bicyclist]:mountain_bicyclist:
+:mountain_bicyclist:
+``` :mountain_bicyclist: ```
 
-[bicyclist]:bicyclist:
+:bicyclist:
+``` :bicyclist: ```
 
-[horse_racing]:horse_racing:
+:horse_racing:
+``` :horse_racing: ```
 
-[snowboarder]:snowboarder:
+:snowboarder:
+``` :snowboarder: ```
 
-[swimmer]:swimmer:
+:swimmer:
+``` :swimmer: ```
 
-[surfer]:surfer:
+:surfer:
+``` :surfer: ```
 
-[ski]:ski:
+:ski:
+``` :ski: ```
 
-[spades]:spades:
+:spades:
+``` :spades: ```
 
-[hearts]:hearts:
+:hearts:
+``` :hearts: ```
 
-[clubs]:clubs:
+:clubs:
+``` :clubs: ```
 
-[diamonds]:diamonds:
+:diamonds:
+``` :diamonds: ```
 
-[gem]:gem:
+:gem:
+``` :gem: ```
 
-[ring]:ring:
+:ring:
+``` :ring: ```
 
-[trophy]:trophy:
+:trophy:
+``` :trophy: ```
 
-[musical_score]:musical_score:
+:musical_score:
+``` :musical_score: ```
 
-[musical_keyboard]:musical_keyboard:
+:musical_keyboard:
+``` :musical_keyboard: ```
 
-[violin]:violin:
+:violin:
+``` :violin: ```
 
-[space_invader]:space_invader:
+:space_invader:
+``` :space_invader: ```
 
-[video_game]:video_game:
+:video_game:
+``` :video_game: ```
 
-[black_joker]:black_joker:
+:black_joker:
+``` :black_joker: ```
 
-[flower_playing_cards]:flower_playing_cards:
+:flower_playing_cards:
+``` :flower_playing_cards: ```
 
-[game_die]:game_die:
+:game_die:
+``` :game_die: ```
 
-[dart]:dart:
+:dart:
+``` :dart: ```
 
-[mahjong]:mahjong:
+:mahjong:
+``` :mahjong: ```
 
-[clapper]:clapper:
+:clapper:
+``` :clapper: ```
 
-[memo]:memo:
+:memo:
+``` :memo: ```
 
-[pencil]:pencil:
+:pencil:
+``` :pencil: ```
 
-[book]:book:
+:book:
+``` :book: ```
 
-[art]:art:
+:art:
+``` :art: ```
 
-[microphone]:microphone:
+:microphone:
+``` :microphone: ```
 
-[headphones]:headphones:
+:headphones:
+``` :headphones: ```
 
-[trumpet]:trumpet:
+:trumpet:
+``` :trumpet: ```
 
-[saxophone]:saxophone:
+:saxophone:
+``` :saxophone: ```
 
-[guitar]:guitar:
+:guitar:
+``` :guitar: ```
 
-[shoe]:shoe:
+:shoe:
+``` :shoe: ```
 
-[sandal]:sandal:
+:sandal:
+``` :sandal: ```
 
-[high_heel]:high_heel:
+:high_heel:
+``` :high_heel: ```
 
-[lipstick]:lipstick:
+:lipstick:
+``` :lipstick: ```
 
-[boot]:boot:
+:boot:
+``` :boot: ```
 
-[shirt]:shirt:
+:shirt:
+``` :shirt: ```
 
-[tshirt]:tshirt:
+:tshirt:
+``` :tshirt: ```
 
-[necktie]:necktie:
+:necktie:
+``` :necktie: ```
 
-[womans_clothes]:womans_clothes:
+:womans_clothes:
+``` :womans_clothes: ```
 
-[dress]:dress:
+:dress:
+``` :dress: ```
 
-[running_shirt_with_sash]:running_shirt_with_sash:
+:running_shirt_with_sash:
+``` :running_shirt_with_sash: ```
 
-[jeans]:jeans:
+:jeans:
+``` :jeans: ```
 
-[kimono]:kimono:
+:kimono:
+``` :kimono: ```
 
-[bikini]:bikini:
+:bikini:
+``` :bikini: ```
 
-[ribbon]:ribbon:
+:ribbon:
+``` :ribbon: ```
 
-[tophat]:tophat:
+:tophat:
+``` :tophat: ```
 
-[crown]:crown:
+:crown:
+``` :crown: ```
 
-[womans_hat]:womans_hat:
+:womans_hat:
+``` :womans_hat: ```
 
-[mans_shoe]:mans_shoe:
+:mans_shoe:
+``` :mans_shoe: ```
 
-[closed_umbrella]:closed_umbrella:
+:closed_umbrella:
+``` :closed_umbrella: ```
 
-[briefcase]:briefcase:
+:briefcase:
+``` :briefcase: ```
 
-[handbag]:handbag:
+:handbag:
+``` :handbag: ```
 
-[pouch]:pouch:
+:pouch:
+``` :pouch: ```
 
-[purse]:purse:
+:purse:
+``` :purse: ```
 
-[eyeglasses]:eyeglasses:
+:eyeglasses:
+``` :eyeglasses: ```
 
-[fishing_pole_and_fish]:fishing_pole_and_fish:
+:fishing_pole_and_fish:
+``` :fishing_pole_and_fish: ```
 
-[coffee]:coffee:
+:coffee:
+``` :coffee: ```
 
-[tea]:tea:
+:tea:
+``` :tea: ```
 
-[sake]:sake:
+:sake:
+``` :sake: ```
 
-[baby_bottle]:baby_bottle:
+:baby_bottle:
+``` :baby_bottle: ```
 
-[beer]:beer:
+:beer:
+``` :beer: ```
 
-[beers]:beers:
+:beers:
+``` :beers: ```
 
-[cocktail]:cocktail:
+:cocktail:
+``` :cocktail: ```
 
-[tropical_drink]:tropical_drink:
+:tropical_drink:
+``` :tropical_drink: ```
 
-[wine_glass]:wine_glass:
+:wine_glass:
+``` :wine_glass: ```
 
-[fork_and_knife]:fork_and_knife:
+:fork_and_knife:
+``` :fork_and_knife: ```
 
-[pizza]:pizza:
+:pizza:
+``` :pizza: ```
 
-[hamburger]:hamburger:
+:hamburger:
+``` :hamburger: ```
 
-[fries]:fries:
+:fries:
+``` :fries: ```
 
-[poultry_leg]:poultry_leg:
+:poultry_leg:
+``` :poultry_leg: ```
 
-[meat_on_bone]:meat_on_bone:
+:meat_on_bone:
+``` :meat_on_bone: ```
 
-[spaghetti]:spaghetti:
+:spaghetti:
+``` :spaghetti: ```
 
-[curry]:curry:
+:curry:
+``` :curry: ```
 
-[fried_shrimp]:fried_shrimp:
+:fried_shrimp:
+``` :fried_shrimp: ```
 
-[bento]:bento:
+:bento:
+``` :bento: ```
 
-[sushi]:sushi:
+:sushi:
+``` :sushi: ```
 
-[fish_cake]:fish_cake:
+:fish_cake:
+``` :fish_cake: ```
 
-[rice_ball]:rice_ball:
+:rice_ball:
+``` :rice_ball: ```
 
-[rice_cracker]:rice_cracker:
+:rice_cracker:
+``` :rice_cracker: ```
 
-[rice]:rice:
+:rice:
+``` :rice: ```
 
-[ramen]:ramen:
+:ramen:
+``` :ramen: ```
 
-[stew]:stew:
+:stew:
+``` :stew: ```
 
-[oden]:oden:
+:oden:
+``` :oden: ```
 
-[dango]:dango:
+:dango:
+``` :dango: ```
 
-[egg]:egg:
+:egg:
+``` :egg: ```
 
-[bread]:bread:
+:bread:
+``` :bread: ```
 
-[doughnut]:doughnut:
+:doughnut:
+``` :doughnut: ```
 
-[custard]:custard:
+:custard:
+``` :custard: ```
 
-[icecream]:icecream:
+:icecream:
+``` :icecream: ```
 
-[ice_cream]:ice_cream:
+:ice_cream:
+``` :ice_cream: ```
 
-[shaved_ice]:shaved_ice:
+:shaved_ice:
+``` :shaved_ice: ```
 
-[birthday]:birthday:
+:birthday:
+``` :birthday: ```
 
-[cake]:cake:
+:cake:
+``` :cake: ```
 
-[cookie]:cookie:
+:cookie:
+``` :cookie: ```
 
-[chocolate_bar]:chocolate_bar:
+:chocolate_bar:
+``` :chocolate_bar: ```
 
-[candy]:candy:
+:candy:
+``` :candy: ```
 
-[lollipop]:lollipop:
+:lollipop:
+``` :lollipop: ```
 
-[honey_pot]:honey_pot:
+:honey_pot:
+``` :honey_pot: ```
 
-[apple]:apple:
+:apple:
+``` :apple: ```
 
-[green_apple]:green_apple:
+:green_apple:
+``` :green_apple: ```
 
-[tangerine]:tangerine:
+:tangerine:
+``` :tangerine: ```
 
-[lemon]:lemon:
+:lemon:
+``` :lemon: ```
 
-[cherries]:cherries:
+:cherries:
+``` :cherries: ```
 
-[grapes]:grapes:
+:grapes:
+``` :grapes: ```
 
-[watermelon]:watermelon:
+:watermelon:
+``` :watermelon: ```
 
-[strawberry]:strawberry:
+:strawberry:
+``` :strawberry: ```
 
-[peach]:peach:
+:peach:
+``` :peach: ```
 
-[melon]:melon:
+:melon:
+``` :melon: ```
 
-[banana]:banana:
+:banana:
+``` :banana: ```
 
-[pear]:pear:
+:pear:
+``` :pear: ```
 
-[pineapple]:pineapple:
+:pineapple:
+``` :pineapple: ```
 
-[sweet_potato]:sweet_potato:
+:sweet_potato:
+``` :sweet_potato: ```
 
-[eggplant]:eggplant:
+:eggplant:
+``` :eggplant: ```
 
-[tomato]:tomato:
+:tomato:
+``` :tomato: ```
 
 :corn:
 Places
-[house]:house:
+:house:
+``` :house: ```
 
-[house_with_garden]:house_with_garden:
+:house_with_garden:
+``` :house_with_garden: ```
 
-[school]:school:
+:school:
+``` :school: ```
 
-[office]:office:
+:office:
+``` :office: ```
 
-[post_office]:post_office:
+:post_office:
+``` :post_office: ```
 
-[hospital]:hospital:
+:hospital:
+``` :hospital: ```
 
-[bank]:bank:
+:bank:
+``` :bank: ```
 
-[convenience_store]:convenience_store:
+:convenience_store:
+``` :convenience_store: ```
 
-[love_hotel]:love_hotel:
+:love_hotel:
+``` :love_hotel: ```
 
-[hotel]:hotel:
+:hotel:
+``` :hotel: ```
 
-[wedding]:wedding:
+:wedding:
+``` :wedding: ```
 
-[church]:church:
+:church:
+``` :church: ```
 
-[department_store]:department_store:
+:department_store:
+``` :department_store: ```
 
-[european_post_office]:european_post_office:
+:european_post_office:
+``` :european_post_office: ```
 
-[city_sunrise]:city_sunrise:
+:city_sunrise:
+``` :city_sunrise: ```
 
-[city_sunset]:city_sunset:
+:city_sunset:
+``` :city_sunset: ```
 
-[japanese_castle]:japanese_castle:
+:japanese_castle:
+``` :japanese_castle: ```
 
-[european_castle]:european_castle:
+:european_castle:
+``` :european_castle: ```
 
-[tent]:tent:
+:tent:
+``` :tent: ```
 
-[factory]:factory:
+:factory:
+``` :factory: ```
 
-[tokyo_tower]:tokyo_tower:
+:tokyo_tower:
+``` :tokyo_tower: ```
 
-[japan]:japan:
+:japan:
+``` :japan: ```
 
-[mount_fuji]:mount_fuji:
+:mount_fuji:
+``` :mount_fuji: ```
 
-[sunrise_over_mountains]:sunrise_over_mountains:
+:sunrise_over_mountains:
+``` :sunrise_over_mountains: ```
 
-[sunrise]:sunrise:
+:sunrise:
+``` :sunrise: ```
 
-[stars]:stars:
+:stars:
+``` :stars: ```
 
-[statue_of_liberty]:statue_of_liberty:
+:statue_of_liberty:
+``` :statue_of_liberty: ```
 
-[bridge_at_night]:bridge_at_night:
+:bridge_at_night:
+``` :bridge_at_night: ```
 
-[carousel_horse]:carousel_horse:
+:carousel_horse:
+``` :carousel_horse: ```
 
-[rainbow]:rainbow:
+:rainbow:
+``` :rainbow: ```
 
-[ferris_wheel]:ferris_wheel:
+:ferris_wheel:
+``` :ferris_wheel: ```
 
-[fountain]:fountain:
+:fountain:
+``` :fountain: ```
 
-[roller_coaster]:roller_coaster:
+:roller_coaster:
+``` :roller_coaster: ```
 
-[ship]:ship:
+:ship:
+``` :ship: ```
 
-[speedboat]:speedboat:
+:speedboat:
+``` :speedboat: ```
 
-[boat]:boat:
+:boat:
+``` :boat: ```
 
-[sailboat]:sailboat:
+:sailboat:
+``` :sailboat: ```
 
-[rowboat]:rowboat:
+:rowboat:
+``` :rowboat: ```
 
-[anchor]:anchor:
+:anchor:
+``` :anchor: ```
 
-[rocket]:rocket:
+:rocket:
+``` :rocket: ```
 
-[airplane]:airplane:
+:airplane:
+``` :airplane: ```
 
-[helicopter]:helicopter:
+:helicopter:
+``` :helicopter: ```
 
-[steam_locomotive]:steam_locomotive:
+:steam_locomotive:
+``` :steam_locomotive: ```
 
-[tram]:tram:
+:tram:
+``` :tram: ```
 
-[mountain_railway]:mountain_railway:
+:mountain_railway:
+``` :mountain_railway: ```
 
-[bike]:bike:
+:bike:
+``` :bike: ```
 
-[aerial_tramway]:aerial_tramway:
+:aerial_tramway:
+``` :aerial_tramway: ```
 
-[suspension_railway]:suspension_railway:
+:suspension_railway:
+``` :suspension_railway: ```
 
-[mountain_cableway]:mountain_cableway:
+:mountain_cableway:
+``` :mountain_cableway: ```
 
-[tractor]:tractor:
+:tractor:
+``` :tractor: ```
 
-[blue_car]:blue_car:
+:blue_car:
+``` :blue_car: ```
 
-[oncoming_automobile]:oncoming_automobile:
+:oncoming_automobile:
+``` :oncoming_automobile: ```
 
-[car]:car:
+:car:
+``` :car: ```
 
-[red_car]:red_car:
+:red_car:
+``` :red_car: ```
 
-[taxi]:taxi:
+:taxi:
+``` :taxi: ```
 
-[oncoming_taxi]:oncoming_taxi:
+:oncoming_taxi:
+``` :oncoming_taxi: ```
 
-[articulated_lorry]:articulated_lorry:
+:articulated_lorry:
+``` :articulated_lorry: ```
 
-[bus]:bus:
+:bus:
+``` :bus: ```
 
-[oncoming_bus]:oncoming_bus:
+:oncoming_bus:
+``` :oncoming_bus: ```
 
-[rotating_light]:rotating_light:
+:rotating_light:
+``` :rotating_light: ```
 
-[police_car]:police_car:
+:police_car:
+``` :police_car: ```
 
-[oncoming_police_car]:oncoming_police_car:
+:oncoming_police_car:
+``` :oncoming_police_car: ```
 
-[fire_engine]:fire_engine:
+:fire_engine:
+``` :fire_engine: ```
 
-[ambulance]:ambulance:
+:ambulance:
+``` :ambulance: ```
 
-[minibus]:minibus:
+:minibus:
+``` :minibus: ```
 
-[truck]:truck:
+:truck:
+``` :truck: ```
 
-[train]:train:
+:train:
+``` :train: ```
 
-[station]:station:
+:station:
+``` :station: ```
 
-[train2]:train2:
+:train2:
+``` :train2: ```
 
-[bullettrain_front]:bullettrain_front:
+:bullettrain_front:
+``` :bullettrain_front: ```
 
-[bullettrain_side]:bullettrain_side:
+:bullettrain_side:
+``` :bullettrain_side: ```
 
-[light_rail]:light_rail:
+:light_rail:
+``` :light_rail: ```
 
-[monorail]:monorail:
+:monorail:
+``` :monorail: ```
 
-[railway_car]:railway_car:
+:railway_car:
+``` :railway_car: ```
 
-[trolleybus]:trolleybus:
+:trolleybus:
+``` :trolleybus: ```
 
-[ticket]:ticket:
+:ticket:
+``` :ticket: ```
 
-[fuelpump]:fuelpump:
+:fuelpump:
+``` :fuelpump: ```
 
-[vertical_traffic_light]:vertical_traffic_light:
+:vertical_traffic_light:
+``` :vertical_traffic_light: ```
 
-[traffic_light]:traffic_light:
+:traffic_light:
+``` :traffic_light: ```
 
-[warning]:warning:
+:warning:
+``` :warning: ```
 
-[construction]:construction:
+:construction:
+``` :construction: ```
 
-[beginner]:beginner:
+:beginner:
+``` :beginner: ```
 
-[atm]:atm:
+:atm:
+``` :atm: ```
 
-[slot_machine]:slot_machine:
+:slot_machine:
+``` :slot_machine: ```
 
-[busstop]:busstop:
+:busstop:
+``` :busstop: ```
 
-[barber]:barber:
+:barber:
+``` :barber: ```
 
-[hotsprings]:hotsprings:
+:hotsprings:
+``` :hotsprings: ```
 
-[checkered_flag]:checkered_flag:
+:checkered_flag:
+``` :checkered_flag: ```
 
-[crossed_flags]:crossed_flags:
+:crossed_flags:
+``` :crossed_flags: ```
 
-[izakaya_lantern]:izakaya_lantern:
+:izakaya_lantern:
+``` :izakaya_lantern: ```
 
-[moyai]:moyai:
+:moyai:
+``` :moyai: ```
 
-[circus_tent]:circus_tent:
+:circus_tent:
+``` :circus_tent: ```
 
-[performing_arts]:performing_arts:
+:performing_arts:
+``` :performing_arts: ```
 
-[round_pushpin]:round_pushpin:
+:round_pushpin:
+``` :round_pushpin: ```
 
-[triangular_flag_on_post]:triangular_flag_on_post:
+:triangular_flag_on_post:
+``` :triangular_flag_on_post: ```
 
-[jp]:jp:
+:jp:
+``` :jp: ```
 
-[kr]:kr:
+:kr:
+``` :kr: ```
 
-[cn]:cn:
+:cn:
+``` :cn: ```
 
-[us]:us:
+:us:
+``` :us: ```
 
-[fr]:fr:
+:fr:
+``` :fr: ```
 
-[es]:es:
+:es:
+``` :es: ```
 
-[it]:it:
+:it:
+``` :it: ```
 
-[ru]:ru:
+:ru:
+``` :ru: ```
 
-[gb]:gb:
+:gb:
+``` :gb: ```
 
-[uk]:uk:
+:uk:
+``` :uk: ```
 
 :de:
 Symbols
-[one]:one:
+:one:
+``` :one: ```
 
-[two]:two:
+:two:
+``` :two: ```
 
-[three]:three:
+:three:
+``` :three: ```
 
-[four]:four:
+:four:
+``` :four: ```
 
-[five]:five:
+:five:
+``` :five: ```
 
-[six]:six:
+:six:
+``` :six: ```
 
-[seven]:seven:
+:seven:
+``` :seven: ```
 
-[eight]:eight:
+:eight:
+``` :eight: ```
 
-[nine]:nine:
+:nine:
+``` :nine: ```
 
-[keycap_ten]:keycap_ten:
+:keycap_ten:
+``` :keycap_ten: ```
 
-[1234]:1234:
+:1234:
+``` :1234: ```
 
-[zero]:zero:
+:zero:
+``` :zero: ```
 
-[hash]:hash:
+:hash:
+``` :hash: ```
 
-[symbols]:symbols:
+:symbols:
+``` :symbols: ```
 
-[arrow_backward]:arrow_backward:
+:arrow_backward:
+``` :arrow_backward: ```
 
-[arrow_down]:arrow_down:
+:arrow_down:
+``` :arrow_down: ```
 
-[arrow_forward]:arrow_forward:
+:arrow_forward:
+``` :arrow_forward: ```
 
-[arrow_left]:arrow_left:
+:arrow_left:
+``` :arrow_left: ```
 
-[capital_abcd]:capital_abcd:
+:capital_abcd:
+``` :capital_abcd: ```
 
-[abcd]:abcd:
+:abcd:
+``` :abcd: ```
 
-[abc]:abc:
+:abc:
+``` :abc: ```
 
-[arrow_lower_left]:arrow_lower_left:
+:arrow_lower_left:
+``` :arrow_lower_left: ```
 
-[arrow_lower_right]:arrow_lower_right:
+:arrow_lower_right:
+``` :arrow_lower_right: ```
 
-[arrow_right]:arrow_right:
+:arrow_right:
+``` :arrow_right: ```
 
-[arrow_up]:arrow_up:
+:arrow_up:
+``` :arrow_up: ```
 
-[arrow_upper_left]:arrow_upper_left:
+:arrow_upper_left:
+``` :arrow_upper_left: ```
 
-[arrow_upper_right]:arrow_upper_right:
+:arrow_upper_right:
+``` :arrow_upper_right: ```
 
-[arrow_double_down]:arrow_double_down:
+:arrow_double_down:
+``` :arrow_double_down: ```
 
-[arrow_double_up]:arrow_double_up:
+:arrow_double_up:
+``` :arrow_double_up: ```
 
-[arrow_down_small]:arrow_down_small:
+:arrow_down_small:
+``` :arrow_down_small: ```
 
-[arrow_heading_down]:arrow_heading_down:
+:arrow_heading_down:
+``` :arrow_heading_down: ```
 
-[arrow_heading_up]:arrow_heading_up:
+:arrow_heading_up:
+``` :arrow_heading_up: ```
 
-[leftwards_arrow_with_hook]:leftwards_arrow_with_hook:
+:leftwards_arrow_with_hook:
+``` :leftwards_arrow_with_hook: ```
 
-[arrow_right_hook]:arrow_right_hook:
+:arrow_right_hook:
+``` :arrow_right_hook: ```
 
-[left_right_arrow]:left_right_arrow:
+:left_right_arrow:
+``` :left_right_arrow: ```
 
-[arrow_up_down]:arrow_up_down:
+:arrow_up_down:
+``` :arrow_up_down: ```
 
-[arrow_up_small]:arrow_up_small:
+:arrow_up_small:
+``` :arrow_up_small: ```
 
-[arrows_clockwise]:arrows_clockwise:
+:arrows_clockwise:
+``` :arrows_clockwise: ```
 
-[arrows_counterclockwise]:arrows_counterclockwise:
+:arrows_counterclockwise:
+``` :arrows_counterclockwise: ```
 
-[rewind]:rewind:
+:rewind:
+``` :rewind: ```
 
-[fast_forward]:fast_forward:
+:fast_forward:
+``` :fast_forward: ```
 
-[information_source]:information_source:
+:information_source:
+``` :information_source: ```
 
-[ok]:ok:
+:ok:
+``` :ok: ```
 
-[twisted_rightwards_arrows]:twisted_rightwards_arrows:
+:twisted_rightwards_arrows:
+``` :twisted_rightwards_arrows: ```
 
-[repeat]:repeat:
+:repeat:
+``` :repeat: ```
 
-[repeat_one]:repeat_one:
+:repeat_one:
+``` :repeat_one: ```
 
-[new]:new:
+:new:
+``` :new: ```
 
-[top]:top:
+:top:
+``` :top: ```
 
-[up]:up:
+:up:
+``` :up: ```
 
-[cool]:cool:
+:cool:
+``` :cool: ```
 
-[free]:free:
+:free:
+``` :free: ```
 
-[ng]:ng:
+:ng:
+``` :ng: ```
 
-[cinema]:cinema:
+:cinema:
+``` :cinema: ```
 
-[koko]:koko:
+:koko:
+``` :koko: ```
 
-[signal_strength]:signal_strength:
+:signal_strength:
+``` :signal_strength: ```
 
-[u5272]:u5272:
+:u5272:
+``` :u5272: ```
 
-[u5408]:u5408:
+:u5408:
+``` :u5408: ```
 
-[u55b6]:u55b6:
+:u55b6:
+``` :u55b6: ```
 
-[u6307]:u6307:
+:u6307:
+``` :u6307: ```
 
-[u6708]:u6708:
+:u6708:
+``` :u6708: ```
 
-[u6709]:u6709:
+:u6709:
+``` :u6709: ```
 
-[u6e80]:u6e80:
+:u6e80:
+``` :u6e80: ```
 
-[u7121]:u7121:
+:u7121:
+``` :u7121: ```
 
-[u7533]:u7533:
+:u7533:
+``` :u7533: ```
 
-[u7a7a]:u7a7a:
+:u7a7a:
+``` :u7a7a: ```
 
-[u7981]:u7981:
+:u7981:
+``` :u7981: ```
 
-[sa]:sa:
+:sa:
+``` :sa: ```
 
-[restroom]:restroom:
+:restroom:
+``` :restroom: ```
 
-[mens]:mens:
+:mens:
+``` :mens: ```
 
-[womens]:womens:
+:womens:
+``` :womens: ```
 
-[baby_symbol]:baby_symbol:
+:baby_symbol:
+``` :baby_symbol: ```
 
-[no_smoking]:no_smoking:
+:no_smoking:
+``` :no_smoking: ```
 
-[parking]:parking:
+:parking:
+``` :parking: ```
 
-[wheelchair]:wheelchair:
+:wheelchair:
+``` :wheelchair: ```
 
-[metro]:metro:
+:metro:
+``` :metro: ```
 
-[baggage_claim]:baggage_claim:
+:baggage_claim:
+``` :baggage_claim: ```
 
-[accept]:accept:
+:accept:
+``` :accept: ```
 
-[wc]:wc:
+:wc:
+``` :wc: ```
 
-[potable_water]:potable_water:
+:potable_water:
+``` :potable_water: ```
 
-[put_litter_in_its_place]:put_litter_in_its_place:
+:put_litter_in_its_place:
+``` :put_litter_in_its_place: ```
 
-[secret]:secret:
+:secret:
+``` :secret: ```
 
-[congratulations]:congratulations:
+:congratulations:
+``` :congratulations: ```
 
-[m]:m:
+:m:
+``` :m: ```
 
-[passport_control]:passport_control:
+:passport_control:
+``` :passport_control: ```
 
-[left_luggage]:left_luggage:
+:left_luggage:
+``` :left_luggage: ```
 
-[customs]:customs:
+:customs:
+``` :customs: ```
 
-[ideograph_advantage]:ideograph_advantage:
+:ideograph_advantage:
+``` :ideograph_advantage: ```
 
-[cl]:cl:
+:cl:
+``` :cl: ```
 
-[sos]:sos:
+:sos:
+``` :sos: ```
 
-[id]:id:
+:id:
+``` :id: ```
 
-[no_entry_sign]:no_entry_sign:
+:no_entry_sign:
+``` :no_entry_sign: ```
 
-[underage]:underage:
+:underage:
+``` :underage: ```
 
-[no_mobile_phones]:no_mobile_phones:
+:no_mobile_phones:
+``` :no_mobile_phones: ```
 
-[do_not_litter]:do_not_litter:
+:do_not_litter:
+``` :do_not_litter: ```
 
-:non[potable_water]-potable_water:
+:non-potable_water:
+``` :non-potable_water: ```
 
-[no_bicycles]:no_bicycles:
+:no_bicycles:
+``` :no_bicycles: ```
 
-[no_pedestrians]:no_pedestrians:
+:no_pedestrians:
+``` :no_pedestrians: ```
 
-[children_crossing]:children_crossing:
+:children_crossing:
+``` :children_crossing: ```
 
-[no_entry]:no_entry:
+:no_entry:
+``` :no_entry: ```
 
-[eight_spoked_asterisk]:eight_spoked_asterisk:
+:eight_spoked_asterisk:
+``` :eight_spoked_asterisk: ```
 
-[sparkle]:sparkle:
+:sparkle:
+``` :sparkle: ```
 
-[eight_pointed_black_star]:eight_pointed_black_star:
+:eight_pointed_black_star:
+``` :eight_pointed_black_star: ```
 
-[heart_decoration]:heart_decoration:
+:heart_decoration:
+``` :heart_decoration: ```
 
-[vs]:vs:
+:vs:
+``` :vs: ```
 
-[vibration_mode]:vibration_mode:
+:vibration_mode:
+``` :vibration_mode: ```
 
-[mobile_phone_off]:mobile_phone_off:
+:mobile_phone_off:
+``` :mobile_phone_off: ```
 
-[chart]:chart:
+:chart:
+``` :chart: ```
 
-[currency_exchange]:currency_exchange:
+:currency_exchange:
+``` :currency_exchange: ```
 
-[aries]:aries:
+:aries:
+``` :aries: ```
 
-[taurus]:taurus:
+:taurus:
+``` :taurus: ```
 
-[gemini]:gemini:
+:gemini:
+``` :gemini: ```
 
-[cancer]:cancer:
+:cancer:
+``` :cancer: ```
 
-[leo]:leo:
+:leo:
+``` :leo: ```
 
-[virgo]:virgo:
+:virgo:
+``` :virgo: ```
 
-[libra]:libra:
+:libra:
+``` :libra: ```
 
-[scorpius]:scorpius:
+:scorpius:
+``` :scorpius: ```
 
-[sagittarius]:sagittarius:
+:sagittarius:
+``` :sagittarius: ```
 
-[capricorn]:capricorn:
+:capricorn:
+``` :capricorn: ```
 
-[aquarius]:aquarius:
+:aquarius:
+``` :aquarius: ```
 
-[pisces]:pisces:
+:pisces:
+``` :pisces: ```
 
-[ophiuchus]:ophiuchus:
+:ophiuchus:
+``` :ophiuchus: ```
 
-[six_pointed_star]:six_pointed_star:
+:six_pointed_star:
+``` :six_pointed_star: ```
 
-[negative_squared_cross_mark]:negative_squared_cross_mark:
+:negative_squared_cross_mark:
+``` :negative_squared_cross_mark: ```
 
-[a]:a:
+:a:
+``` :a: ```
 
-[b]:b:
+:b:
+``` :b: ```
 
-[ab]:ab:
+:ab:
+``` :ab: ```
 
-[o2]:o2:
+:o2:
+``` :o2: ```
 
-[diamond_shape_with_a_dot_inside]:diamond_shape_with_a_dot_inside:
+:diamond_shape_with_a_dot_inside:
+``` :diamond_shape_with_a_dot_inside: ```
 
-[recycle]:recycle:
+:recycle:
+``` :recycle: ```
 
-[end]:end:
+:end:
+``` :end: ```
 
-[back]:back:
+:back:
+``` :back: ```
 
-[on]:on:
+:on:
+``` :on: ```
 
-[soon]:soon:
+:soon:
+``` :soon: ```
 
-[clock1]:clock1:
+:clock1:
+``` :clock1: ```
 
-[clock130]:clock130:
+:clock130:
+``` :clock130: ```
 
-[clock10]:clock10:
+:clock10:
+``` :clock10: ```
 
-[clock1030]:clock1030:
+:clock1030:
+``` :clock1030: ```
 
-[clock11]:clock11:
+:clock11:
+``` :clock11: ```
 
-[clock1130]:clock1130:
+:clock1130:
+``` :clock1130: ```
 
-[clock12]:clock12:
+:clock12:
+``` :clock12: ```
 
-[clock1230]:clock1230:
+:clock1230:
+``` :clock1230: ```
 
-[clock2]:clock2:
+:clock2:
+``` :clock2: ```
 
-[clock230]:clock230:
+:clock230:
+``` :clock230: ```
 
-[clock3]:clock3:
+:clock3:
+``` :clock3: ```
 
-[clock330]:clock330:
+:clock330:
+``` :clock330: ```
 
-[clock4]:clock4:
+:clock4:
+``` :clock4: ```
 
-[clock430]:clock430:
+:clock430:
+``` :clock430: ```
 
-[clock5]:clock5:
+:clock5:
+``` :clock5: ```
 
-[clock530]:clock530:
+:clock530:
+``` :clock530: ```
 
-[clock6]:clock6:
+:clock6:
+``` :clock6: ```
 
-[clock630]:clock630:
+:clock630:
+``` :clock630: ```
 
-[clock7]:clock7:
+:clock7:
+``` :clock7: ```
 
-[clock730]:clock730:
+:clock730:
+``` :clock730: ```
 
-[clock8]:clock8:
+:clock8:
+``` :clock8: ```
 
-[clock830]:clock830:
+:clock830:
+``` :clock830: ```
 
-[clock9]:clock9:
+:clock9:
+``` :clock9: ```
 
-[clock930]:clock930:
+:clock930:
+``` :clock930: ```
 
-[heavy_dollar_sign]:heavy_dollar_sign:
+:heavy_dollar_sign:
+``` :heavy_dollar_sign: ```
 
-[copyright]:copyright:
+:copyright:
+``` :copyright: ```
 
-[registered]:registered:
+:registered:
+``` :registered: ```
 
-[tm]:tm:
+:tm:
+``` :tm: ```
 
-[x]:x:
+:x:
+``` :x: ```
 
-[heavy_exclamation_mark]:heavy_exclamation_mark:
+:heavy_exclamation_mark:
+``` :heavy_exclamation_mark: ```
 
-[bangbang]:bangbang:
+:bangbang:
+``` :bangbang: ```
 
-[interrobang]:interrobang:
+:interrobang:
+``` :interrobang: ```
 
-[o]:o:
+:o:
+``` :o: ```
 
-[heavy_multiplication_x]:heavy_multiplication_x:
+:heavy_multiplication_x:
+``` :heavy_multiplication_x: ```
 
-[heavy_plus_sign]:heavy_plus_sign:
+:heavy_plus_sign:
+``` :heavy_plus_sign: ```
 
-[heavy_minus_sign]:heavy_minus_sign:
+:heavy_minus_sign:
+``` :heavy_minus_sign: ```
 
-[heavy_division_sign]:heavy_division_sign:
+:heavy_division_sign:
+``` :heavy_division_sign: ```
 
-[white_flower]:white_flower:
+:white_flower:
+``` :white_flower: ```
 
-[100]:100:
+:100:
+``` :100: ```
 
-[heavy_check_mark]:heavy_check_mark:
+:heavy_check_mark:
+``` :heavy_check_mark: ```
 
-[ballot_box_with_check]:ballot_box_with_check:
+:ballot_box_with_check:
+``` :ballot_box_with_check: ```
 
-[radio_button]:radio_button:
+:radio_button:
+``` :radio_button: ```
 
-[link]:link:
+:link:
+``` :link: ```
 
-[curly_loop]:curly_loop:
+:curly_loop:
+``` :curly_loop: ```
 
-[wavy_dash]:wavy_dash:
+:wavy_dash:
+``` :wavy_dash: ```
 
-[part_alternation_mark]:part_alternation_mark:
+:part_alternation_mark:
+``` :part_alternation_mark: ```
 
-[trident]:trident:
+:trident:
+``` :trident: ```
 
-[black_small_square]:black_small_square:
+:black_small_square:
+``` :black_small_square: ```
 
-[white_small_square]:white_small_square:
+:white_small_square:
+``` :white_small_square: ```
 
-[black_medium_small_square]:black_medium_small_square:
+:black_medium_small_square:
+``` :black_medium_small_square: ```
 
-[white_medium_small_square]:white_medium_small_square:
+:white_medium_small_square:
+``` :white_medium_small_square: ```
 
-[black_medium_square]:black_medium_square:
+:black_medium_square:
+``` :black_medium_square: ```
 
-[white_medium_square]:white_medium_square:
+:white_medium_square:
+``` :white_medium_square: ```
 
-[black_large_square]:black_large_square:
+:black_large_square:
+``` :black_large_square: ```
 
-[white_large_square]:white_large_square:
+:white_large_square:
+``` :white_large_square: ```
 
-[white_check_mark]:white_check_mark:
+:white_check_mark:
+``` :white_check_mark: ```
 
-[black_square_button]:black_square_button:
+:black_square_button:
+``` :black_square_button: ```
 
-[white_square_button]:white_square_button:
+:white_square_button:
+``` :white_square_button: ```
 
-[black_circle]:black_circle:
+:black_circle:
+``` :black_circle: ```
 
-[white_circle]:white_circle:
+:white_circle:
+``` :white_circle: ```
 
-[red_circle]:red_circle:
+:red_circle:
+``` :red_circle: ```
 
-[large_blue_circle]:large_blue_circle:
+:large_blue_circle:
+``` :large_blue_circle: ```
 
-[large_blue_diamond]:large_blue_diamond:
+:large_blue_diamond:
+``` :large_blue_diamond: ```
 
-[large_orange_diamond]:large_orange_diamond:
+:large_orange_diamond:
+``` :large_orange_diamond: ```
 
-[small_blue_diamond]:small_blue_diamond:
+:small_blue_diamond:
+``` :small_blue_diamond: ```
 
-[small_orange_diamond]:small_orange_diamond:
+:small_orange_diamond:
+``` :small_orange_diamond: ```
 
-[small_red_triangle]:small_red_triangle:
+:small_red_triangle:
+``` :small_red_triangle: ```
 
-[small_red_triangle_down]:small_red_triangle_down:
+:small_red_triangle_down:
+``` :small_red_triangle_down: ```
 
 :shipit:
 Campfire also supports a few sounds
