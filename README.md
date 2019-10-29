@@ -20,6 +20,8 @@
 
 * [Node.js 中文资料导航](/node-link/README.md)
 
+* [Markdown 学习笔记](/markdown/README.md)
+
 * [smileys 微笑标签符](/smileys/README.md)
 
 * [Vue——饿了么 -- by bailicangdu](https://github.com/bailicangdu/vue2-elm/)
