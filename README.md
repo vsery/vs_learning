@@ -12,11 +12,14 @@
 > :star: _[欢迎大家一起来讨论, 或留下您的建议。](https://gitee.com/vsery/learning/issues/new)_
 
 ***
-### 相关文档推荐 [按 A-Z 排序]
+### document
+相关文档推荐 [按 A-Z 排序]
 
 * :star: 流行技术博客站点收录 _[大神技术博客](/blog/README.md)._
 
-### 项目教程收录 [按 A-Z 排序]
+### project
+项目教程收录 [按 A-Z 排序]
+
 - [x]  完整教程项目
     - [x]  [Express + MongoDB 搭建多人博客](/blogs/README.md) -- by nswbmw
     - [x]  [使用node.js + express开发简易后台](/express/README.md) -- by peng1992
@@ -58,7 +61,8 @@ Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ Thinkphp的前后端分离框�
 * 函数式编程术语 -- [cn](https://github.com/shfshanyue/fp-jargon-zh) |
 [en](https://github.com/hemanth/functional-programming-jargon)
 
-### 面向亿万用户级的移动端Web解决方案：
+### solution
+面向亿万用户级的移动端Web解决方案：
 
 1. [特效制作解决方案](http://alloyteam.github.io/AlloyTouch/transformjs/)
 
@@ -70,7 +74,8 @@ Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ Thinkphp的前后端分离框�
 
 ***
 
-### 内容贡献者,感谢他们. (排名不分先后)
+### contributor
+内容贡献者,感谢他们. (排名不分先后)
 [fouber](https://github.com/fouber) |
 [JacksonTian](https://github.com/JacksonTian) |
 [nswbmw](https://github.com/nswbmw) |
