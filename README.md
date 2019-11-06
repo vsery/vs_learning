@@ -1,14 +1,20 @@
-> 我只是互联网的一个搬运工。 我只是记录下自己所见所想，与正在经历的技术一起改变，并在此过过程一起交流心得。 虽然其中很大部分是 Fork 过来以后改的，感谢前辈们的贡献。
-> [欢迎大家一起来讨论, 或留下您的建议。](https://gitee.com/vsery/learning/issues/new)
+> :star: _These share data are from my usual work and learning，hoping to help you. If you like you can star and watch._ :heartpulse::heartpulse::heartpulse: 
 
-> :heart_eyes_cat: _These share data are from my usual work and learning，hoping to help you. If you like you can star :star: and watch._ :heartpulse:
+> :star: _[Vsery](https://gitee.com/vsery/learning) 只是互联网的一个搬运工。_
 
-### 目录
+> :star: _[Vsery](https://gitee.com/vsery/learning) 
+只是记录下自己所见所想，与正在经历的技术一起改变，并在此过过程一起交流心得。_ 虽然其中很大部分是 Fork 过来以后改的，感谢前辈们的贡献。
+
+> :star: _[Vsery](https://gitee.com/vsery/learning) 学习资料涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索、人工智能、脚本等等（不一定是著名站点或者知名博客，重在有可借鉴之处），排名纯按添加时间顺序，持续更新中。。。_
+
+> :star: _[欢迎大家一起来讨论, 或留下您的建议。](https://gitee.com/vsery/learning/issues/new)_
+
+### 文档目录 [按 A-Z 排序]
+
 * [流行技术博客站点收录](/blog/README.md)
 
 ***
 
-涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索、人工智能、脚本等等（不一定是著名站点或者知名博客，重在有可借鉴之处），排名纯按添加时间顺序，持续更新中。。。
 
 * [Express + MongoDB 搭建多人博客 -- by nswbmw](/blogs/README.md)
 * [使用node.js + express开发简易后台 -- by peng1992](/express/README.md)
