@@ -13,7 +13,8 @@
 
 ***
 ## Document
-> 文档 * :star: 流行技术博客站点收录 _[大神技术博客](/blog/README.md)._
+> 文档
+> :star: 流行技术博客站点收录 _[大神技术博客](/blog/README.md)._
 
 ## Project
 > 项目
