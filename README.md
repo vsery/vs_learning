@@ -13,12 +13,12 @@
 
 ***
 ## Document
-相关文档推荐 [按 A-Z 排序]
+> 文档
 
-* :star: 流行技术博客站点收录 _[大神技术博客](/blog/README.md)._
+    :star: 流行技术博客站点收录 _[大神技术博客](/blog/README.md)._
 
 ## Project
-项目教程收录 [按 A-Z 排序]
+> 项目
 
 - [x]  完整教程项目
     - [x]  [Express + MongoDB 搭建多人博客](/blogs/README.md) -- by nswbmw
