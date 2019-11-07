@@ -3,7 +3,7 @@ Frontend Knowledge Structure
 ## Original purpose
 Once upon a time, there's a graph of Frontend Knowledge Structure original posted by @jayli ...
 
-![Frontend Knowledge](https://raw.github.com/JacksonTian/fks/master/figures/fks.jpg)
+![Frontend Knowledge](https://gitee.com/vsery/learning/raw/master/public/images/f2e.jpg)
 
 A shortcoming of releasing the graph in form of picture is, as the technology develops, we can't make any contribution to the graph without its source file -- That is why this GitHub repository comes. In this repository, every one could contribute to the project. The development of frontend profession will also be written to the history by Git.
 

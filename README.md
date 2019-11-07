@@ -14,7 +14,7 @@
 ## Begin
 还记得@jayli 的这幅前端知识结构图么。
 
-![前端知识结构](https://gitee.com/vsery/learning/raw/master/figures/fks.jpg)
+![前端知识结构](https://gitee.com/vsery/learning/raw/master/public/images/f2e.jpg)
 
 ***
 ## Document
