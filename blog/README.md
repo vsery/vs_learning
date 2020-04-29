@@ -1,8 +1,9 @@
 ## 流行技术博客站点收录
 > :star: 涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索、人工智能、脚本等等（不一定是著名站点或者知名博客，重在有可借鉴之处），排名纯按添加时间顺序，持续更新中...
 
-## Security [网络安全](https://baike.baidu.com/item/网络安全)
+## Security
 
+* [网络安全](https://baike.baidu.com/item/网络安全)
 * [乌云知识库](http://drops.wooyun.org/)
 * [FreeBuf](http://www.freebuf.com/)
 * [开放安全研究](http://blog.opensecurityresearch.com/)
@@ -11,6 +12,7 @@
 * [信息安全入门指南-伯乐在线](http://blog.jobbole.com/48738/)
 
 ## 关系数据库 & NoSQL DB
+
 * [NoSQLFan](http://blog.nosqlfan.com/newslist)
 * [Implementing a KV Store Table of Contents](http://codecapsule.com/2012/11/07ikvs-implementing-a-key-value-store-table-of-contents/)
 * [MySQL Internals](http://dev.mysql.com/doc/internals/en/index.html)
@@ -23,6 +25,7 @@
 * [Inside MySql](http://www.innomysql.net/)
 
 ## Bloggers
+
 * [Martin Fowler](http://martinfowler.com/)
 * [Netflix技术博客](http://techblog.netflix.com/)
 * [云风的Blog](http://blog.codingnow.com/)
@@ -49,9 +52,11 @@
 * [Axb的自我修养](http://blog.2baxb.me/)
 
 ## 文献&论文
+
 * [Martin Ordersky（Scala作者）](http://www.informatik.uni-trier.de/~ley/pers/hdo/Odersky:Martin.html")
 
 ## Java性能、GC、JVM等高级Java话题
+
 * [Java Performance Tuning Guide](http://java-performance.info/)
 * [Java内存模型](http://www.cs.umd.edu/~pugh/java/memoryModel/)
 * [JVM内存管理](http://www.memorymanagement.org/)
@@ -64,10 +69,12 @@
 * [APM Blog](http://apmblog.dynatrace.com/)
 
 ## 并发&并行
+
 * [Preshing on Programming](http://preshing.com/)
 * [并发编程网](http://ifeve.com/)
 
 ## 分布式系统、高性能网站架构
+
 * [Netflix的一大神](http://martin.kleppmann.com/)
 * [Thought from the Red Planet](http://nathanmarz.com/)
 * [bitstech](http://www.bitstech.net/)
@@ -83,6 +90,7 @@
 * [Raft协议图解](http://thesecretlivesofdata.com/raft/)
 
 ## 大数据、搜索、推荐
+
 * [不周山-推荐算法博客](http://www.wentrue.net/blog/)
 * [Lambda架构](http://lambda-architecture.net/)
 * [推荐系统](http://bigdata.memect.com/)
@@ -95,12 +103,15 @@
 * [binospace](http://www.binospace.com/)
 
 ## 编程范式
+
 * [Alexs Quest - OO](http://alexsquest.com/)
 
 ## 通用算法
+
 * [算法-伯乐在线](http://top.jobbole.com/tag/algorithm/)
 
 ## 人工智能 & 机器学习
+
 * [失控：全人类的最终命运和结局](http://book.douban.com/subject/5375620/)
 * [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.htm")
 * [机器学习入门](http://blog.jobbole.com/67616/)
@@ -109,6 +120,7 @@
 * [scikit机器学习算法验证框架](http://scikit-learn.org/stable/)
 
 ## 运维&脚本&工具
+
 * [南非蚂蚁](http://ixdba.blog.51cto.com/)
 * [Bash脚本编程指南](http://www.lzhaohao.info/abs/)
 * [老男孩Linux运维](http://oldboy.blog.51cto.com/)
@@ -116,9 +128,11 @@
 * [juven xu-Maven权威指南作者](http://www.juvenxu.com/)
 
 ## Netty
+
 * [Netty](http://yueyemaitian.iteye.com/)
 
 ## Python
+
 * [Python Wiki](https://wiki.python.org/moin/)
 * [Python全栈开发](http://www.fullstackpython.com/)
 * [Python一站式学习](https://pythonpedia.com/)
@@ -126,9 +140,11 @@
 * [Python编程风格指南](http://zh-google-styleguide.readthedocs.org/en/lates/google-python-styleguide/python_style_rules)
 
 ## IaaS & PaaS
+
 * [zstack](http://zstack.org/)
 
-##  Redis监控：
+##  Redis监控
+
 * [redis-faina](https://github.com/jxqlovejava/redis-faina) [RedisLive](https://github.com/jxqlovejava/RedisLive)
 
 ## 应用监控
