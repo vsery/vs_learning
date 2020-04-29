@@ -1,25 +1,19 @@
-> :star:    _These share data are from my usual work and learning，hoping to help you. If you like you can star and watch._ 
+> :heartpulse:  _These share data are from my usual work and learning，hoping to help you. If you like you can star and watch._ 
 
-> :star:    _[Vsery](https://gitee.com/vsery/learning) 只是互联网的一个搬运工。_
+> :star:     _[Vsery](https://gitee.com/vsery/learning) 只是互联网的一个搬运工。_
 
 > :star:    _[Vsery](https://gitee.com/vsery/learning) 
 只是记录下自己所见所想，与正在经历的技术一起改变，并在此过过程一起交流心得。_ 虽然其中很大部分是 Fork 过来以后改的，感谢前辈们的贡献。
 
 > :star:    _[Vsery](https://gitee.com/vsery/learning) 学习资料涉及的主题包含编程语言、设计模式、架构、安全、大数据、分布式系统、推荐系统、搜索、人工智能、脚本等等（不一定是著名站点或者知名博客，重在有可借鉴之处），排名纯按添加时间顺序，持续更新中。。。_
 
-> :star:    _[欢迎大家一起来讨论, 或留下您的建议。](https://gitee.com/vsery/learning/issues/new)_
-
-> :heartpulse:
- 
-> :heartpulse:
-
-> :heartpulse: 
+> :heartpulse:  _[欢迎大家一起来讨论, 或留下您的建议。](https://gitee.com/vsery/learning/issues/new)_ 
 
 ## Document
 
-> :star:    流行技术博客站点收录  _[大神技术博客](/blog/README.md)_
+> :heartpulse:  流行技术博客站点收录  _[大神技术博客](/books-blog/README.md)_
 
-> :star:    Vue相关开源项目库汇总 _[非常完整](/vue/README.md)_
+> :heartpulse:  Vue相关开源项目库汇总 _[非常完整](/books-vue/README.md)_
 
 ## Project
 - [x]  完整教程项目
@@ -219,7 +213,7 @@ Vue全家桶（Vue2.x + Vue-router2.x + Vuex）+ Thinkphp的前后端分离框�
 ***
 ## Contributor
 
-内容贡献者,感谢他们. [排名不分先后]
+内容贡献者,  :heartpulse:  感谢他们. [排名不分先后]
 [fouber](https://github.com/fouber) |
 [JacksonTian](https://github.com/JacksonTian) |
 [nswbmw](https://github.com/nswbmw) |
