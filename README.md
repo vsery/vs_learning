@@ -13,12 +13,12 @@
 
 > :heartpulse:  流行技术博客站点收录  _[大神技术博客](/books-blog/README.md)_
 
-> :heartpulse:  Vue相关开源项目库汇总 _[非常完整](/books-vue/README.md)_
+> :star:  Vue相关开源项目库汇总 _[非常完整](/books-vue/README.md)_
 
 ## Project
 - [x]  完整教程项目
-    - [x]  [Express + MongoDB 搭建多人博客](/blogs/README.md) -- by nswbmw
-    - [x]  [使用node.js + express开发简易后台](/express/README.md) -- by peng1992
+    - [√]  [Express + MongoDB 搭建多人博客](/proudct-blogs/README.md) -- by nswbmw
+    - [√]  [使用node.js + express开发简易后台](/proudct-express/README.md) -- by peng1992
     - [x]  [Vue —— 饿了么](https://github.com/bailicangdu/vue2-elm/) -- by bailicangdu
 
 ## Vue
